@@ -1,0 +1,1201 @@
+rank,name,federation,elo,birth_year,list,scraping_date
+1,"Carlsen, Magnus",NOR,2839,1990,Open,2025-09-13
+2,"Nakamura, Hikaru",USA,2807,1987,Open,2025-09-13
+3,"Caruana, Fabiano",USA,2789,1992,Open,2025-09-13
+4,Praggnanandhaa R,IND,2785,2005,Open,2025-09-13
+5,Erigaisi Arjun,IND,2771,2003,Open,2025-09-13
+6,Gukesh D,IND,2767,2006,Open,2025-09-13
+7,"So, Wesley",USA,2756,1993,Open,2025-09-13
+8,"Firouzja, Alireza",FRA,2754,2003,Open,2025-09-13
+9,"Wei, Yi",CHN,2753,1999,Open,2025-09-13
+10,"Keymer, Vincent",GER,2751,2004,Open,2025-09-13
+11,"Abdusattorov, Nodirbek",UZB,2748,2004,Open,2025-09-13
+12,"Giri, Anish",NED,2746,1994,Open,2025-09-13
+13,"Aronian, Levon",USA,2744,1982,Open,2025-09-13
+14,"Anand, Viswanathan",IND,2743,1969,Open,2025-09-13
+15,"Nepomniachtchi, Ian",RUS,2742,1990,Open,2025-09-13
+16,"Mamedyarov, Shakhriyar",AZE,2741,1985,Open,2025-09-13
+17,"Vachier-Lagrave, Maxime",FRA,2738,1990,Open,2025-09-13
+18,"Dominguez Perez, Leinier",USA,2738,1983,Open,2025-09-13
+19,"Ding, Liren",CHN,2734,1992,Open,2025-09-13
+20,"Niemann, Hans Moke",USA,2733,2003,Open,2025-09-13
+21,"Fedoseev, Vladimir",SLO,2731,1995,Open,2025-09-13
+22,"Duda, Jan-Krzysztof",POL,2729,1998,Open,2025-09-13
+23,"Le, Quang Liem",VIE,2729,1991,Open,2025-09-13
+24,"Sindarov, Javokhir",UZB,2722,2005,Open,2025-09-13
+25,"Topalov, Veselin",BUL,2717,1975,Open,2025-09-13
+26,"Yu, Yangyi",CHN,2714,1994,Open,2025-09-13
+27,"Vidit, Santosh Gujrathi",IND,2712,1994,Open,2025-09-13
+28,"Aravindh, Chithambaram VR.",IND,2711,1999,Open,2025-09-13
+29,"Rapport, Richard",HUN,2711,1996,Open,2025-09-13
+30,"Andreikin, Dmitry",FID,2710,1990,Open,2025-09-13
+31,"Harikrishna, Pentala",IND,2704,1986,Open,2025-09-13
+32,"Liang, Awonder",USA,2698,2003,Open,2025-09-13
+33,"Wang, Hao",CHN,2698,1989,Open,2025-09-13
+34,Nihal Sarin,IND,2693,2004,Open,2025-09-13
+35,"Sevian, Samuel",USA,2692,2000,Open,2025-09-13
+36,"Van Foreest, Jorden",NED,2692,1999,Open,2025-09-13
+37,"Maghsoodloo, Parham",IRI,2692,2000,Open,2025-09-13
+38,"Radjabov, Teimour",AZE,2692,1987,Open,2025-09-13
+39,"Dubov, Daniil",RUS,2691,1996,Open,2025-09-13
+40,"Esipenko, Andrey",RUS,2687,2002,Open,2025-09-13
+41,"Sarana, Alexey",SRB,2686,2000,Open,2025-09-13
+42,"Bu, Xiangzhi",CHN,2684,1985,Open,2025-09-13
+43,"Eljanov, Pavel",UKR,2682,1983,Open,2025-09-13
+44,"Svidler, Peter",FID,2682,1976,Open,2025-09-13
+45,"Yakubboev, Nodirbek",UZB,2681,2002,Open,2025-09-13
+46,"Kasimdzhanov, Rustam",UZB,2675,1979,Open,2025-09-13
+47,"Robson, Ray",USA,2674,1994,Open,2025-09-13
+48,"Alekseenko, Kirill",AUT,2674,1997,Open,2025-09-13
+49,"Deac, Bogdan-Daniel",ROU,2674,2001,Open,2025-09-13
+50,"Tabatabaei, M. Amin",IRI,2673,2001,Open,2025-09-13
+51,"Bluebaum, Matthias",GER,2671,1997,Open,2025-09-13
+52,"Murzin, Volodar",FID,2670,2006,Open,2025-09-13
+53,"Shankland, Sam",USA,2670,1991,Open,2025-09-13
+54,"Kovalenko, Igor",UKR,2669,1988,Open,2025-09-13
+55,"Karthikeyan, Murali",IND,2669,1999,Open,2025-09-13
+56,"Howell, David W L",ENG,2668,1990,Open,2025-09-13
+57,"Vitiugov, Nikita",ENG,2666,1987,Open,2025-09-13
+58,"Leko, Peter",HUN,2666,1979,Open,2025-09-13
+59,"Artemiev, Vladislav",RUS,2664,1998,Open,2025-09-13
+60,"Wojtaszek, Radoslaw",POL,2661,1987,Open,2025-09-13
+61,"Nguyen, Thai Dai Van",CZE,2660,2001,Open,2025-09-13
+62,"Oparin, Grigoriy",USA,2660,1997,Open,2025-09-13
+63,"Sadhwani, Raunak",IND,2658,2005,Open,2025-09-13
+64,"Grischuk, Alexander",RUS,2657,1983,Open,2025-09-13
+65,"Saric, Ivan",CRO,2655,1990,Open,2025-09-13
+66,"Christiansen, Johan-Sebastian",NOR,2655,1998,Open,2025-09-13
+67,"Navara, David",CZE,2653,1985,Open,2025-09-13
+68,"Sargsyan, Shant",ARM,2653,2002,Open,2025-09-13
+69,"Gelfand, Boris",ISR,2652,1968,Open,2025-09-13
+70,"Mamedov, Rauf",AZE,2651,1988,Open,2025-09-13
+71,"Bjerre, Jonas Buhl",DEN,2651,2004,Open,2025-09-13
+72,"Indjic, Aleksandar",SRB,2650,1995,Open,2025-09-13
+73,"Morozevich, Alexander",RUS,2650,1977,Open,2025-09-13
+74,"Grandelius, Nils",SWE,2648,1993,Open,2025-09-13
+75,"Yuffa, Daniil",ESP,2648,1997,Open,2025-09-13
+76,"Kollars, Dmitrij",GER,2647,1999,Open,2025-09-13
+77,"Lu, Shanglei",CHN,2647,1995,Open,2025-09-13
+78,"Adams, Michael",ENG,2646,1971,Open,2025-09-13
+79,"Erdogmus, Yagiz Kaan",TUR,2646,2011,Open,2025-09-13
+80,"Gledura, Benjamin",HUN,2646,1999,Open,2025-09-13
+81,"Theodorou, Nikolas",GRE,2646,2000,Open,2025-09-13
+82,"Rodshtein, Maxim",ISR,2645,1989,Open,2025-09-13
+83,"Vokhidov, Shamsiddin",UZB,2645,2002,Open,2025-09-13
+84,"Vallejo Pons, Francisco",ESP,2644,1982,Open,2025-09-13
+85,"Maroroa Jones, Gawain C B",ENG,2643,1987,Open,2025-09-13
+86,"Svane, Frederik",GER,2643,2004,Open,2025-09-13
+87,"Malakhov, Vladimir",FID,2643,1980,Open,2025-09-13
+88,"Puranik, Abhimanyu",IND,2640,2000,Open,2025-09-13
+89,"Xiong, Jeffery",USA,2640,2000,Open,2025-09-13
+90,"Salem, A.R. Saleh",UAE,2640,1993,Open,2025-09-13
+91,"Martinez Alcantara, Jose Eduardo",MEX,2639,1999,Open,2025-09-13
+92,"Chigaev, Maksim",ESP,2638,1996,Open,2025-09-13
+93,"Bacrot, Etienne",FRA,2637,1983,Open,2025-09-13
+94,"Amin, Bassem",EGY,2636,1988,Open,2025-09-13
+95,"Kryvoruchko, Yuriy",UKR,2632,1986,Open,2025-09-13
+96,"Gurel, Ediz",TUR,2631,2008,Open,2025-09-13
+97,"Tari, Aryan",NOR,2631,1999,Open,2025-09-13
+98,"Ivic, Velimir",SRB,2630,2002,Open,2025-09-13
+99,"Safarli, Eltaj",AZE,2630,1992,Open,2025-09-13
+100,"Hovhannisyan, Robert",ARM,2629,1991,Open,2025-09-13
+1,"Hou, Yifan",CHN,2609,1994,Women,2025-09-13
+2,"Ju, Wenjun",CHN,2570,1991,Women,2025-09-13
+3,"Lei, Tingjie",CHN,2565,1997,Women,2025-09-13
+4,"Zhu, Jiner",CHN,2548,2002,Women,2025-09-13
+5,"Koneru, Humpy",IND,2535,1987,Women,2025-09-13
+6,"Muzychuk, Anna",UKR,2535,1990,Women,2025-09-13
+7,"Tan, Zhongyi",CHN,2531,1991,Women,2025-09-13
+8,"Goryachkina, Aleksandra",FID,2528,1998,Women,2025-09-13
+9,"Assaubayeva, Bibisara",KAZ,2505,2004,Women,2025-09-13
+10,"Lagno, Kateryna",RUS,2505,1989,Women,2025-09-13
+11,"Dzagnidze, Nana",GEO,2496,1987,Women,2025-09-13
+12,"Shuvalova, Polina",FID,2492,2001,Women,2025-09-13
+13,"Muzychuk, Mariya",UKR,2484,1992,Women,2025-09-13
+14,Divya Deshmukh,IND,2478,2005,Women,2025-09-13
+15,"Osmak, Yuliia",UKR,2478,1998,Women,2025-09-13
+16,"Garifullina, Leya",FID,2477,2004,Women,2025-09-13
+17,"Kosteniuk, Alexandra",SUI,2472,1984,Women,2025-09-13
+18,"Batsiashvili, Nino",GEO,2469,1987,Women,2025-09-13
+19,"Dronavalli, Harika",IND,2467,1991,Women,2025-09-13
+20,"Yip, Carissa",USA,2458,2003,Women,2025-09-13
+21,"Injac, Teodora",SRB,2454,2000,Women,2025-09-13
+22,"Vaishali, Rameshbabu",IND,2452,2001,Women,2025-09-13
+23,"Lu, Miaoyi",CHN,2449,2010,Women,2025-09-13
+24,"Kashlinskaya, Alina",POL,2449,1993,Women,2025-09-13
+25,"Tsolakidou, Stavroula",GRE,2445,2000,Women,2025-09-13
+26,"Khademalsharieh, Sarasadat",ESP,2444,1997,Women,2025-09-13
+27,"Arabidze, Meri",GEO,2444,1994,Women,2025-09-13
+28,"Javakhishvili, Lela",GEO,2434,1984,Women,2025-09-13
+29,"Sebag, Marie",FRA,2425,1986,Women,2025-09-13
+30,"Shukhman, Anna",FID,2420,2009,Women,2025-09-13
+31,"Gunina, Valentina",FID,2418,1989,Women,2025-09-13
+32,"Khotenashvili, Bella",GEO,2416,1988,Women,2025-09-13
+33,"Lee, Alice",USA,2409,2009,Women,2025-09-13
+34,"Song, Yuxin",CHN,2409,2005,Women,2025-09-13
+35,"Khamdamova, Afruza",UZB,2409,2009,Women,2025-09-13
+36,"Ushenina, Anna",UKR,2409,1985,Women,2025-09-13
+37,"Abrahamyan, Tatev",USA,2407,1988,Women,2025-09-13
+38,"Paehtz, Elisabeth",GER,2407,1985,Women,2025-09-13
+39,"Kiolbasa, Oliwia",POL,2405,2000,Women,2025-09-13
+40,"Danielian, Elina",ARM,2405,1978,Women,2025-09-13
+41,"Cramling, Pia",SWE,2403,1963,Women,2025-09-13
+42,"Wagner, Dinara",GER,2400,1999,Women,2025-09-13
+43,"Bulmaga, Irina",ROU,2400,1993,Women,2025-09-13
+44,"Buksa, Nataliya",UKR,2400,1996,Women,2025-09-13
+45,"Tania, Sachdev",IND,2396,1986,Women,2025-09-13
+46,"Stefanova, Antoaneta",BUL,2395,1979,Women,2025-09-13
+47,"Daulyte-Cornette, Deimante",FRA,2394,1989,Women,2025-09-13
+48,"Mkrtchian, Lilit",ARM,2393,1982,Women,2025-09-13
+49,"Ding, Yixin",CHN,2392,1991,Women,2025-09-13
+50,"Galliamova, Alisa",RUS,2392,1972,Women,2025-09-13
+51,"Mammadzada, Gunay",AZE,2390,2000,Women,2025-09-13
+52,"Shen, Yang",CHN,2389,1989,Women,2025-09-13
+53,"Gaal, Zsoka",HUN,2388,2007,Women,2025-09-13
+54,"Salimova, Nurgyul",BUL,2386,2003,Women,2025-09-13
+55,"Girya, Olga",RUS,2386,1991,Women,2025-09-13
+56,"Narva, Mai",EST,2386,1999,Women,2025-09-13
+57,"Ambartsumova, Karina",RUS,2385,1989,Women,2025-09-13
+58,"Fataliyeva, Ulviyya",AZE,2385,1996,Women,2025-09-13
+59,"Vega Gutierrez, Sabrina",ESP,2383,1987,Women,2025-09-13
+60,"Balabayeva, Xeniya",KAZ,2383,2005,Women,2025-09-13
+61,Vantika Agrawal,IND,2381,2002,Women,2025-09-13
+62,"Tang, Zoey",USA,2381,2008,Women,2025-09-13
+63,"Zhai, Mo",CHN,2380,1996,Women,2025-09-13
+64,"Maltsevskaya, Aleksandra",POL,2379,2002,Women,2025-09-13
+65,"Wang, Pin",CHN,2378,1974,Women,2025-09-13
+66,"Roebers, Eline",NED,2377,2006,Women,2025-09-13
+67,"Efroimski, Marsel",ISR,2377,1995,Women,2025-09-13
+68,"Badelka, Olga",AUT,2375,2002,Women,2025-09-13
+69,"Rajlich, Iweta",POL,2373,1981,Women,2025-09-13
+70,"Tokhirjonova, Gulrukhbegim",UZB,2372,1999,Women,2025-09-13
+71,"Guo, Qi",CHN,2371,1995,Women,2025-09-13
+72,"Beydullayeva, Govhar",AZE,2368,2003,Women,2025-09-13
+73,"Huang, Qian",CHN,2367,1986,Women,2025-09-13
+74,"Krush, Irina",USA,2366,1983,Women,2025-09-13
+75,"Sargsyan, Anna M.",USA,2366,2001,Women,2025-09-13
+76,"Bodnaruk, Anastasia",RUS,2362,1992,Women,2025-09-13
+77,"Padmini, Rout",IND,2362,1994,Women,2025-09-13
+78,"Kulon, Klaudia",POL,2361,1992,Women,2025-09-13
+79,"Skripchenko, Almira",FRA,2359,1976,Women,2025-09-13
+80,"Toncheva, Nadya",BUL,2356,2005,Women,2025-09-13
+81,"Hoang, Thanh Trang",HUN,2356,1980,Women,2025-09-13
+82,"Atalik, Ekaterina",TUR,2355,1982,Women,2025-09-13
+83,"Aulia, Medina Warda",INA,2355,1997,Women,2025-09-13
+84,"Xiao, Yiyi",CHN,2354,1996,Women,2025-09-13
+85,"Socko, Monika",POL,2353,1978,Women,2025-09-13
+86,Prishita Gupta,IND,2353,2011,Women,2025-09-13
+87,"Bivol, Alina",FID,2352,1996,Women,2025-09-13
+88,"Milliet, Sophie",FRA,2351,1983,Women,2025-09-13
+89,"Peng, Zhaoqin",NED,2351,1968,Women,2025-09-13
+90,"Schippke, Manon",FRA,2350,2007,Women,2025-09-13
+91,"Munguntuul, Batkhuyag",MGL,2350,1987,Women,2025-09-13
+92,"Kamalidenova, Meruert",KAZ,2349,2005,Women,2025-09-13
+93,"Ouellet, Maili-Jade",CAN,2348,2002,Women,2025-09-13
+94,"Pham, Le Thao Nguyen",VIE,2348,1987,Women,2025-09-13
+95,"Cyfka, Karina",POL,2347,1987,Women,2025-09-13
+96,"Gara, Ticia",HUN,2347,1984,Women,2025-09-13
+97,"Cori T., Deysi",PER,2346,1993,Women,2025-09-13
+98,"Nurgaliyeva, Zarina",KAZ,2344,2009,Women,2025-09-13
+99,"Shvayger, Yuliya",ISR,2343,1994,Women,2025-09-13
+100,"Houska, Jovanka",ENG,2342,1980,Women,2025-09-13
+1,Praggnanandhaa R,IND,2785,2005,Juniors,2025-09-13
+2,Gukesh D,IND,2767,2006,Juniors,2025-09-13
+3,"Sindarov, Javokhir",UZB,2722,2005,Juniors,2025-09-13
+4,"Murzin, Volodar",FID,2670,2006,Juniors,2025-09-13
+5,"Sadhwani, Raunak",IND,2658,2005,Juniors,2025-09-13
+6,"Erdogmus, Yagiz Kaan",TUR,2646,2011,Juniors,2025-09-13
+7,"Gurel, Ediz",TUR,2631,2008,Juniors,2025-09-13
+8,"Dardha, Daniel",BEL,2624,2005,Juniors,2025-09-13
+9,"Mendonca, Leon Luke",IND,2615,2006,Juniors,2025-09-13
+10,Pranesh M,IND,2611,2006,Juniors,2025-09-13
+11,"Mishra, Abhimanyu",USA,2611,2009,Juniors,2025-09-13
+12,"Maurizzi, MarcAndria",FRA,2610,2007,Juniors,2025-09-13
+13,"Grebnev, Aleksey",FID,2608,2006,Juniors,2025-09-13
+14,"Yoo, Christopher Woojin",USA,2607,2006,Juniors,2025-09-13
+15,"Lazavik, Denis",BLR,2605,2006,Juniors,2025-09-13
+16,Pranav Anand,IND,2603,2006,Juniors,2025-09-13
+17,"Suleymanli, Aydin",AZE,2602,2005,Juniors,2025-09-13
+18,"Daneshvar, Bardiya",IRI,2598,2006,Juniors,2025-09-13
+19,"Pranav, V",IND,2596,2006,Juniors,2025-09-13
+20,Aditya Mittal,IND,2589,2006,Juniors,2025-09-13
+21,"Zemlyanskii, Ivan",RUS,2586,2010,Juniors,2025-09-13
+22,"Amar, Elham",NOR,2584,2005,Juniors,2025-09-13
+23,"Movahed, Sina",IRI,2580,2010,Juniors,2025-09-13
+24,"Vetokhin, Savva",FID,2569,2009,Juniors,2025-09-13
+25,Bharath Subramaniyam H,IND,2565,2007,Juniors,2025-09-13
+26,"Madaminov, Mukhiddin",UZB,2560,2006,Juniors,2025-09-13
+27,"Woodward, Andy",USA,2557,2010,Juniors,2025-09-13
+28,"Xue, Haowen",CHN,2553,2008,Juniors,2025-09-13
+29,"Samunenkov, Ihor",UKR,2550,2009,Juniors,2025-09-13
+30,"Xiao, Tong(QD)",CHN,2545,2008,Juniors,2025-09-13
+31,"Costa, Leonardo",GER,2544,2008,Juniors,2025-09-13
+32,"Sokolovsky, Yahli",ISR,2539,2006,Juniors,2025-09-13
+33,"Malek, Jan",POL,2528,2007,Juniors,2025-09-13
+34,"Petkov, Momchil",BUL,2525,2005,Juniors,2025-09-13
+35,"Guo, Arthur",USA,2525,2006,Juniors,2025-09-13
+36,"Wang, Justin",USA,2524,2005,Juniors,2025-09-13
+37,"Samadov, Read",AZE,2523,2007,Juniors,2025-09-13
+38,"Klimkowski, Jan",POL,2520,2007,Juniors,2025-09-13
+39,"Finek, Vaclav",CZE,2520,2010,Juniors,2025-09-13
+40,"Ghazarian, Kirk",USA,2518,2006,Juniors,2025-09-13
+41,Samant Aditya S,IND,2517,2006,Juniors,2025-09-13
+42,Ilamparthi A R,IND,2516,2009,Juniors,2025-09-13
+43,"Can, Isik",TUR,2512,2005,Juniors,2025-09-13
+44,"Tsaruk, Maksim",FID,2509,2005,Juniors,2025-09-13
+45,"Rozen, Eytan",ISR,2508,2006,Juniors,2025-09-13
+46,"Mardov, Dimitar",USA,2504,2008,Juniors,2025-09-13
+47,Rohith Krishna S,IND,2503,2005,Juniors,2025-09-13
+48,"Macias Pino, Diego",ESP,2503,2007,Juniors,2025-09-13
+49,"Hardaway, Brewington",USA,2503,2009,Juniors,2025-09-13
+50,"Babazada, Khazar",AZE,2502,2005,Juniors,2025-09-13
+51,"Royal, Shreyas",ENG,2501,2009,Juniors,2025-09-13
+52,"Seemann, Jakub",POL,2500,2008,Juniors,2025-09-13
+53,"Galaviz Medina, Sion Radamantys",MEX,2498,2005,Juniors,2025-09-13
+54,"Uskov, Artem",FID,2498,2010,Juniors,2025-09-13
+55,"Aswath, S",IND,2497,2008,Juniors,2025-09-13
+56,"Razafindratsima, Timothe",FRA,2495,2006,Juniors,2025-09-13
+57,"Kong, Xiangrui",CHN,2494,2009,Juniors,2025-09-13
+58,"Raczek, Krzysztof",POL,2493,2008,Juniors,2025-09-13
+59,"Khubukshanov, Erdem",FID,2492,2007,Juniors,2025-09-13
+60,"Ohanyan, Emin",ARM,2491,2006,Juniors,2025-09-13
+61,Dau Khuong Duy,VIE,2490,2011,Juniors,2025-09-13
+62,"Camlar, Arda",TUR,2490,2009,Juniors,2025-09-13
+63,"Kvaloy, Aksel Bu",NOR,2490,2008,Juniors,2025-09-13
+64,"Mamedov, Edgar",KAZ,2490,2010,Juniors,2025-09-13
+65,Aaryan Varshney,IND,2489,2005,Juniors,2025-09-13
+66,"Materia, Marco",FRA,2489,2009,Juniors,2025-09-13
+67,"Celik, Hasan Huseyin",TUR,2483,2008,Juniors,2025-09-13
+68,Ajay Santhosh Parvathareddy,IND,2482,2010,Juniors,2025-09-13
+69,"Suyarov, Mukhammadzokhid",UZB,2482,2009,Juniors,2025-09-13
+70,"Deuer, Marius",GER,2481,2008,Juniors,2025-09-13
+71,Srihari L R,IND,2481,2005,Juniors,2025-09-13
+72,"Mahdavi, Reza",IRI,2480,2008,Juniors,2025-09-13
+73,"Stribuk, Artiom",FID,2480,2007,Juniors,2025-09-13
+74,"Droin, Augustin",FRA,2480,2006,Juniors,2025-09-13
+75,"Putnam, Liam",USA,2479,2008,Juniors,2025-09-13
+76,"Bazakutsa, Svyatoslav",UKR,2478,2008,Juniors,2025-09-13
+77,"Lavrencic, Matic",SLO,2478,2008,Juniors,2025-09-13
+78,Divya Deshmukh,IND,2478,2005,Juniors,2025-09-13
+79,"Bilovil, Bogdan",UKR,2477,2006,Juniors,2025-09-13
+80,Md Imran,IND,2476,2009,Juniors,2025-09-13
+81,"Pham, Khoi",NED,2476,2005,Juniors,2025-09-13
+82,"Habans Aguerrea, Javier",ESP,2476,2008,Juniors,2025-09-13
+83,Prraneeth Vuppala,IND,2475,2007,Juniors,2025-09-13
+84,"Chasin, Nico",USA,2474,2006,Juniors,2025-09-13
+85,"Cieslak, Patryk",POL,2474,2010,Juniors,2025-09-13
+86,"Pingin, Artem",RUS,2473,2008,Juniors,2025-09-13
+87,"Kunka, Harshid",USA,2472,2009,Juniors,2025-09-13
+88,"Ansat, Aldiyar",KAZ,2471,2008,Juniors,2025-09-13
+89,"Zverev, Lev",FID,2471,2010,Juniors,2025-09-13
+90,"Sowinski, Pawel",POL,2469,2010,Juniors,2025-09-13
+91,"Dotzer, Lukas",AUT,2468,2010,Juniors,2025-09-13
+92,"Mitusov, Semen",NOR,2468,2006,Juniors,2025-09-13
+93,Aarav Dengla,IND,2468,2009,Juniors,2025-09-13
+94,"Siddharth, Jagadeesh",SGP,2467,2007,Juniors,2025-09-13
+95,"Vergara Anton, Diego",ESP,2467,2007,Juniors,2025-09-13
+96,"Zhang, Di",CHN,2467,2007,Juniors,2025-09-13
+97,"Lamaze, Simon",FRA,2466,2006,Juniors,2025-09-13
+98,Jubin Jimmy,IND,2466,2006,Juniors,2025-09-13
+99,Mayank Chakraborty,IND,2464,2009,Juniors,2025-09-13
+100,"Oro, Faustino",ARG,2464,2013,Juniors,2025-09-13
+1,Divya Deshmukh,IND,2478,2005,Girls,2025-09-13
+2,"Lu, Miaoyi",CHN,2449,2010,Girls,2025-09-13
+3,"Shukhman, Anna",FID,2420,2009,Girls,2025-09-13
+4,"Lee, Alice",USA,2409,2009,Girls,2025-09-13
+5,"Song, Yuxin",CHN,2409,2005,Girls,2025-09-13
+6,"Khamdamova, Afruza",UZB,2409,2009,Girls,2025-09-13
+7,"Gaal, Zsoka",HUN,2388,2007,Girls,2025-09-13
+8,"Balabayeva, Xeniya",KAZ,2383,2005,Girls,2025-09-13
+9,"Tang, Zoey",USA,2381,2008,Girls,2025-09-13
+10,"Roebers, Eline",NED,2377,2006,Girls,2025-09-13
+11,"Toncheva, Nadya",BUL,2356,2005,Girls,2025-09-13
+12,Prishita Gupta,IND,2353,2011,Girls,2025-09-13
+13,"Schippke, Manon",FRA,2350,2007,Girls,2025-09-13
+14,"Kamalidenova, Meruert",KAZ,2349,2005,Girls,2025-09-13
+15,"Nurgaliyeva, Zarina",KAZ,2344,2009,Girls,2025-09-13
+16,"Mungunzul, Bat-Erdene",MGL,2328,2005,Girls,2025-09-13
+17,Rakshitta Ravi,IND,2326,2005,Girls,2025-09-13
+18,"Karimova, Guldona",UZB,2324,2007,Girls,2025-09-13
+19,Savitha Shri B,IND,2321,2007,Girls,2025-09-13
+20,"Li, Rachael",USA,2316,2010,Girls,2025-09-13
+21,"Nurman, Alua",KAZ,2316,2007,Girls,2025-09-13
+22,"Manko, Mariia",SUI,2313,2007,Girls,2025-09-13
+23,"Van Foreest, Machteld",NED,2313,2007,Girls,2025-09-13
+24,"Kairbekova, Amina",KAZ,2299,2006,Girls,2025-09-13
+25,"Kaliakhmet, Elnaz",KAZ,2299,2010,Girls,2025-09-13
+26,"Kirtadze, Anastasia",GEO,2299,2009,Girls,2025-09-13
+27,"Zhurova, Anna",FID,2298,2005,Girls,2025-09-13
+28,"Karmanova, Olga Dm.",FID,2297,2007,Girls,2025-09-13
+29,"Mohammadi, Melika",IRI,2289,2010,Girls,2025-09-13
+30,"Kurmangaliyeva, Liya",KAZ,2287,2005,Girls,2025-09-13
+31,"Atwell, Rose",USA,2284,2009,Girls,2025-09-13
+32,Velpula Sarayu,IND,2284,2006,Girls,2025-09-13
+33,"Kuznecova, Marija",LAT,2279,2010,Girls,2025-09-13
+34,"Lyutsinger, Iren",FID,2277,2009,Girls,2025-09-13
+35,Tejaswini G,IND,2277,2007,Girls,2025-09-13
+36,"Zhapova, Yana",FID,2275,2008,Girls,2025-09-13
+37,"Francisco Guecamburu, Candela Be",ARG,2272,2006,Girls,2025-09-13
+38,Shubhi Gupta,IND,2271,2010,Girls,2025-09-13
+39,Sherali Pattnaik,IND,2270,2010,Girls,2025-09-13
+40,"Tarasenka, Aliaksandra",BLR,2266,2006,Girls,2025-09-13
+41,Sahithi Varshini M,IND,2266,2007,Girls,2025-09-13
+42,"Piddubna, Bozhena",UKR,2265,2009,Girls,2025-09-13
+43,"Wang, Qinxuanyi",CHN,2265,2011,Girls,2025-09-13
+44,"Tashkinova, Sofiia",ISR,2265,2007,Girls,2025-09-13
+45,Kolagatla Alana Meenakshi,IND,2260,2011,Girls,2025-09-13
+46,"Paragua, Megan Althea",USA,2259,2012,Girls,2025-09-13
+47,"Bayasgalan, Khishigbaatar",MGL,2259,2007,Girls,2025-09-13
+48,"Shvedova, Alexandra",ITA,2255,2008,Girls,2025-09-13
+49,"Omonova, Umida",UZB,2252,2006,Girls,2025-09-13
+50,"Su, Jasmine Zhixin",USA,2250,2010,Girls,2025-09-13
+51,"Hrebenshchykova, Yelyzaveta",UKR,2250,2005,Girls,2025-09-13
+52,"Mgeladze, Kesaria",GEO,2245,2010,Girls,2025-09-13
+53,Berikkyzy Alanna,KAZ,2241,2014,Girls,2025-09-13
+54,"Yakimova, Mariya",FID,2241,2005,Girls,2025-09-13
+55,"Aydin, Gulenay",TUR,2237,2006,Girls,2025-09-13
+56,"Wang, Chuqiao",CHN,2236,2008,Girls,2025-09-13
+57,"Wikar, Martyna",POL,2236,2005,Girls,2025-09-13
+58,"Allahverdiyeva, Ayan",AZE,2235,2005,Girls,2025-09-13
+59,"Yan, Ruiyang",USA,2231,2007,Girls,2025-09-13
+60,Nguyen Hong Nhung,VIE,2230,2006,Girls,2025-09-13
+61,"Ziegenfuss, Antonia",GER,2230,2005,Girls,2025-09-13
+62,"Orian, Noga",ISR,2227,2007,Girls,2025-09-13
+63,"Bassari, Senem Gul",TUR,2226,2012,Girls,2025-09-13
+64,"Jimenez Salas, Maria Teresa",PER,2224,2007,Girls,2025-09-13
+65,"Mikheeva, Galina",FID,2222,2007,Girls,2025-09-13
+66,"Negre, Emilie",FRA,2221,2010,Girls,2025-09-13
+67,"Valcu, Lavinia",SWE,2221,2009,Girls,2025-09-13
+68,"Kleymenova, Valeria",RUS,2218,2008,Girls,2025-09-13
+69,"Pipiras, Filipa Fortuna",POR,2217,2005,Girls,2025-09-13
+70,"Kaldarova, Ayaulym",KAZ,2213,2007,Girls,2025-09-13
+71,"Buyankhishig, Batpelden",MGL,2212,2012,Girls,2025-09-13
+72,"Gao, Muziyan",CHN,2212,2011,Girls,2025-09-13
+73,"Bernard, Ines",FRA,2211,2010,Girls,2025-09-13
+74,"Davari, Sara",IRI,2204,2009,Girls,2025-09-13
+75,Kheerthi Ganta,IND,2202,2007,Girls,2025-09-13
+76,"Arzur, Maia",FRA,2200,2009,Girls,2025-09-13
+77,"Contreras Huaman, Fiorella",PER,2200,2007,Girls,2025-09-13
+78,"Wu, Rochelle",USA,2199,2006,Girls,2025-09-13
+79,"Babic, Milana",BIH,2195,2008,Girls,2025-09-13
+80,"Bravo Mallco, Kate Azumi",PER,2195,2007,Girls,2025-09-13
+81,"Tirpan, Ceren",TUR,2195,2008,Girls,2025-09-13
+82,"Peglau, Charis",GER,2194,2008,Girls,2025-09-13
+83,"Sivanandan, Bodhana",ENG,2192,2015,Girls,2025-09-13
+84,"Amin-Erdene, Bayanmunkh",MGL,2191,2006,Girls,2025-09-13
+85,"Hnatyshyn, Anastasiia",UKR,2191,2010,Girls,2025-09-13
+86,Sneha Halder,IND,2190,2009,Girls,2025-09-13
+87,"Butenandt, Svenja",GER,2189,2006,Girls,2025-09-13
+88,"Kanyamarala, Trisha",IRL,2188,2005,Girls,2025-09-13
+89,"Nur-Mukhametova, Alisa",RUS,2188,2005,Girls,2025-09-13
+90,"Starosta, Martyna",POL,2185,2006,Girls,2025-09-13
+91,"Shatil, Or",SUI,2184,2010,Girls,2025-09-13
+92,"Kholyavko, Mariya",KAZ,2183,2011,Girls,2025-09-13
+93,"Montejo Bello, Lorena Beatriz",CUB,2182,2009,Girls,2025-09-13
+94,Arshiya Das,IND,2180,2010,Girls,2025-09-13
+95,"Castillo Beitia, Ashley Alexandr",PAN,2179,2009,Girls,2025-09-13
+96,"Goraj, Barbara",POL,2178,2005,Girls,2025-09-13
+97,Emujin Enkh-Amgalan,MGL,2176,2009,Girls,2025-09-13
+98,"Latifah, Laysa",INA,2176,2006,Girls,2025-09-13
+99,"Obada, Ema",ROU,2172,2005,Girls,2025-09-13
+100,"Ter-Avetisjana, Agnesa Stepania",LAT,2172,2007,Girls,2025-09-13
+1,"Carlsen, Magnus",NOR,2809,1990,Rapid Open,2025-09-13
+2,"Caruana, Fabiano",USA,2767,1992,Rapid Open,2025-09-13
+3,"Ding, Liren",CHN,2766,1992,Rapid Open,2025-09-13
+4,"Nepomniachtchi, Ian",RUS,2762,1990,Rapid Open,2025-09-13
+5,"Wei, Yi",CHN,2758,1999,Rapid Open,2025-09-13
+6,"Firouzja, Alireza",FRA,2754,2003,Rapid Open,2025-09-13
+7,"Aronian, Levon",USA,2747,1982,Rapid Open,2025-09-13
+8,"Fedoseev, Vladimir",SLO,2741,1995,Rapid Open,2025-09-13
+9,"Nakamura, Hikaru",USA,2738,1987,Rapid Open,2025-09-13
+10,"Vachier-Lagrave, Maxime",FRA,2731,1990,Rapid Open,2025-09-13
+11,"Artemiev, Vladislav",RUS,2729,1998,Rapid Open,2025-09-13
+12,"Anand, Viswanathan",IND,2727,1969,Rapid Open,2025-09-13
+13,"Abdusattorov, Nodirbek",UZB,2717,2004,Rapid Open,2025-09-13
+14,"Rapport, Richard",HUN,2716,1996,Rapid Open,2025-09-13
+15,"Duda, Jan-Krzysztof",POL,2711,1998,Rapid Open,2025-09-13
+16,Erigaisi Arjun,IND,2708,2003,Rapid Open,2025-09-13
+17,"Dominguez Perez, Leinier",USA,2703,1983,Rapid Open,2025-09-13
+18,"So, Wesley",USA,2702,1993,Rapid Open,2025-09-13
+19,"Mamedyarov, Shakhriyar",AZE,2701,1985,Rapid Open,2025-09-13
+20,"Yu, Yangyi",CHN,2696,1994,Rapid Open,2025-09-13
+21,"Xiong, Jeffery",USA,2694,2000,Rapid Open,2025-09-13
+22,Gukesh D,IND,2693,2006,Rapid Open,2025-09-13
+23,"Dubov, Daniil",RUS,2691,1996,Rapid Open,2025-09-13
+24,"Karjakin, Sergey",RUS,2691,1990,Rapid Open,2025-09-13
+25,Praggnanandhaa R,IND,2691,2005,Rapid Open,2025-09-13
+26,Nihal Sarin,IND,2688,2004,Rapid Open,2025-09-13
+27,"Sindarov, Javokhir",UZB,2688,2005,Rapid Open,2025-09-13
+28,"Giri, Anish",NED,2685,1994,Rapid Open,2025-09-13
+29,"Grischuk, Alexander",RUS,2676,1983,Rapid Open,2025-09-13
+30,"Santos Latasa, Jaime",ESP,2671,1996,Rapid Open,2025-09-13
+31,"Svidler, Peter",FID,2669,1976,Rapid Open,2025-09-13
+32,"McShane, Luke J",ENG,2668,1984,Rapid Open,2025-09-13
+33,"Wang, Hao",CHN,2663,1989,Rapid Open,2025-09-13
+34,"Radjabov, Teimour",AZE,2661,1987,Rapid Open,2025-09-13
+35,"Maghsoodloo, Parham",IRI,2660,2000,Rapid Open,2025-09-13
+36,"Wojtaszek, Radoslaw",POL,2659,1987,Rapid Open,2025-09-13
+37,"Vidit, Santosh Gujrathi",IND,2657,1994,Rapid Open,2025-09-13
+38,"Shirov, Alexei",ESP,2654,1972,Rapid Open,2025-09-13
+39,"Sevian, Samuel",USA,2654,2000,Rapid Open,2025-09-13
+40,"Robson, Ray",USA,2652,1994,Rapid Open,2025-09-13
+41,"Keymer, Vincent",GER,2651,2004,Rapid Open,2025-09-13
+42,"Morozevich, Alexander",RUS,2651,1977,Rapid Open,2025-09-13
+43,"Le, Quang Liem",VIE,2650,1991,Rapid Open,2025-09-13
+44,"Jobava, Baadur",GEO,2646,1983,Rapid Open,2025-09-13
+45,"Kasimdzhanov, Rustam",UZB,2646,1979,Rapid Open,2025-09-13
+46,"Kravtsiv, Martyn",UKR,2645,1990,Rapid Open,2025-09-13
+47,"Bacrot, Etienne",FRA,2644,1983,Rapid Open,2025-09-13
+48,"Sedlak, Nikola",SRB,2644,1983,Rapid Open,2025-09-13
+49,"Malakhov, Vladimir",FID,2643,1980,Rapid Open,2025-09-13
+50,"Martinez Alcantara, Jose Eduardo",MEX,2643,1999,Rapid Open,2025-09-13
+51,"Nyzhnyk, Illya",UKR,2643,1996,Rapid Open,2025-09-13
+52,"Ivanchuk, Vasyl",UKR,2642,1969,Rapid Open,2025-09-13
+53,"Murzin, Volodar",FID,2642,2006,Rapid Open,2025-09-13
+54,"Bortnyk, Olexandr",UKR,2641,1996,Rapid Open,2025-09-13
+55,"Kamsky, Gata",FRA,2640,1974,Rapid Open,2025-09-13
+56,"L'Ami, Erwin",NED,2640,1985,Rapid Open,2025-09-13
+57,"Ponomariov, Ruslan",UKR,2640,1983,Rapid Open,2025-09-13
+58,"Van Foreest, Jorden",NED,2638,1999,Rapid Open,2025-09-13
+59,"Naroditsky, Daniel",USA,2636,1995,Rapid Open,2025-09-13
+60,"Tomashevsky, Evgeny",RUS,2636,1987,Rapid Open,2025-09-13
+61,"Matlakov, Maxim",RUS,2635,1991,Rapid Open,2025-09-13
+62,"Onyshchuk, Volodymyr",UKR,2635,1991,Rapid Open,2025-09-13
+63,"Akopian, Vladimir",USA,2632,1971,Rapid Open,2025-09-13
+64,"Sarana, Alexey",SRB,2632,2000,Rapid Open,2025-09-13
+65,"Deac, Bogdan-Daniel",ROU,2631,2001,Rapid Open,2025-09-13
+66,"Adams, Michael",ENG,2630,1971,Rapid Open,2025-09-13
+67,"Inarkiev, Ernesto",RUS,2630,1985,Rapid Open,2025-09-13
+68,"Wang, Yue",CHN,2628,1987,Rapid Open,2025-09-13
+69,"Safarli, Eltaj",AZE,2627,1992,Rapid Open,2025-09-13
+70,"Leitao, Rafael",BRA,2626,1979,Rapid Open,2025-09-13
+71,"Esipenko, Andrey",RUS,2626,2002,Rapid Open,2025-09-13
+72,"Sadhwani, Raunak",IND,2625,2005,Rapid Open,2025-09-13
+73,"Korobov, Anton",UKR,2624,1985,Rapid Open,2025-09-13
+74,"Gelfand, Boris",ISR,2621,1968,Rapid Open,2025-09-13
+75,"Harikrishna, Pentala",IND,2621,1986,Rapid Open,2025-09-13
+76,"Maroroa Jones, Gawain C B",ENG,2621,1987,Rapid Open,2025-09-13
+77,"Niemann, Hans Moke",USA,2621,2003,Rapid Open,2025-09-13
+78,"Salem, A.R. Saleh",UAE,2621,1993,Rapid Open,2025-09-13
+79,"Anton Guijarro, David",ESP,2620,1995,Rapid Open,2025-09-13
+80,"Onischuk, Alexander",USA,2619,1975,Rapid Open,2025-09-13
+81,"Svane, Rasmus",GER,2619,1997,Rapid Open,2025-09-13
+82,"Albornoz Cabrera, Carlos Daniel",CUB,2618,2000,Rapid Open,2025-09-13
+83,"Milov, Vadim",SUI,2618,1972,Rapid Open,2025-09-13
+84,"Topalov, Veselin",BUL,2618,1975,Rapid Open,2025-09-13
+85,"Cori, Jorge",PER,2617,1995,Rapid Open,2025-09-13
+86,"Bachmann, Axel",PAR,2616,1989,Rapid Open,2025-09-13
+87,"Alekseenko, Kirill",AUT,2614,1997,Rapid Open,2025-09-13
+88,"Cheparinov, Ivan",BUL,2614,1986,Rapid Open,2025-09-13
+89,"Sargsyan, Shant",ARM,2614,2002,Rapid Open,2025-09-13
+90,"Sargissian, Gabriel",ARM,2613,1983,Rapid Open,2025-09-13
+91,"Oparin, Grigoriy",USA,2612,1997,Rapid Open,2025-09-13
+92,"Chigaev, Maksim",ESP,2611,1996,Rapid Open,2025-09-13
+93,"Shankland, Sam",USA,2611,1991,Rapid Open,2025-09-13
+94,"Nisipeanu, Liviu-Dieter",ROU,2611,1976,Rapid Open,2025-09-13
+95,"Vitiugov, Nikita",ENG,2611,1987,Rapid Open,2025-09-13
+96,"Grigoryan, Karen H.",ARM,2610,1995,Rapid Open,2025-09-13
+97,"Iturrizaga Bonelli, Eduardo",ESP,2610,1989,Rapid Open,2025-09-13
+98,"Mamedov, Rauf",AZE,2610,1988,Rapid Open,2025-09-13
+99,"Ma, Qun",CHN,2609,1991,Rapid Open,2025-09-13
+100,"Guseinov, Gadir",AZE,2609,1986,Rapid Open,2025-09-13
+1,"Hou, Yifan",CHN,2536,1994,Rapid Women,2025-09-13
+2,"Ju, Wenjun",CHN,2530,1991,Rapid Women,2025-09-13
+3,"Tan, Zhongyi",CHN,2507,1991,Rapid Women,2025-09-13
+4,"Goryachkina, Aleksandra",FID,2505,1998,Rapid Women,2025-09-13
+5,"Kosintseva, Tatiana",RUS,2497,1986,Rapid Women,2025-09-13
+6,"Lei, Tingjie",CHN,2496,1997,Rapid Women,2025-09-13
+7,"Assaubayeva, Bibisara",KAZ,2461,2004,Rapid Women,2025-09-13
+8,"Lagno, Kateryna",RUS,2452,1989,Rapid Women,2025-09-13
+9,"Kosteniuk, Alexandra",SUI,2450,1984,Rapid Women,2025-09-13
+10,"Koneru, Humpy",IND,2448,1987,Rapid Women,2025-09-13
+11,"Saduakassova, Dinara",KAZ,2442,1996,Rapid Women,2025-09-13
+12,"Dronavalli, Harika",IND,2435,1991,Rapid Women,2025-09-13
+13,"Zhu, Jiner",CHN,2435,2002,Rapid Women,2025-09-13
+14,"Guo, Qi",CHN,2432,1995,Rapid Women,2025-09-13
+15,"Zhao, Xue",CHN,2430,1985,Rapid Women,2025-09-13
+16,"Dzagnidze, Nana",GEO,2425,1987,Rapid Women,2025-09-13
+17,"Muzychuk, Mariya",UKR,2421,1992,Rapid Women,2025-09-13
+18,Divya Deshmukh,IND,2419,2005,Rapid Women,2025-09-13
+19,"Lee, Alice",USA,2412,2009,Rapid Women,2025-09-13
+20,"Roebers, Eline",NED,2409,2006,Rapid Women,2025-09-13
+21,"Paehtz, Elisabeth",GER,2402,1985,Rapid Women,2025-09-13
+22,"Kamalidenova, Meruert",KAZ,2398,2005,Rapid Women,2025-09-13
+23,"Muzychuk, Anna",UKR,2398,1990,Rapid Women,2025-09-13
+24,"Huang, Qian",CHN,2394,1986,Rapid Women,2025-09-13
+25,"Bulmaga, Irina",ROU,2388,1993,Rapid Women,2025-09-13
+26,"Paikidze, Nazi",USA,2386,1993,Rapid Women,2025-09-13
+27,"Khamdamova, Afruza",UZB,2384,2009,Rapid Women,2025-09-13
+28,"Sebag, Marie",FRA,2379,1986,Rapid Women,2025-09-13
+29,"Stefanova, Antoaneta",BUL,2379,1979,Rapid Women,2025-09-13
+30,"Ushenina, Anna",UKR,2377,1985,Rapid Women,2025-09-13
+31,"Song, Yuxin",CHN,2375,2005,Rapid Women,2025-09-13
+32,"Sukandar, Irine Kharisma",INA,2375,1992,Rapid Women,2025-09-13
+33,"Khotenashvili, Bella",GEO,2373,1988,Rapid Women,2025-09-13
+34,"Yip, Carissa",USA,2369,2003,Rapid Women,2025-09-13
+35,"Cramling, Pia",SWE,2364,1963,Rapid Women,2025-09-13
+36,"Kashlinskaya, Alina",POL,2363,1993,Rapid Women,2025-09-13
+37,"Injac, Teodora",SRB,2360,2000,Rapid Women,2025-09-13
+38,"Khademalsharieh, Sarasadat",ESP,2359,1997,Rapid Women,2025-09-13
+39,"Vaishali, Rameshbabu",IND,2359,2001,Rapid Women,2025-09-13
+40,"Krush, Irina",USA,2358,1983,Rapid Women,2025-09-13
+41,"Shen, Yang",CHN,2358,1989,Rapid Women,2025-09-13
+42,"Tsolakidou, Stavroula",GRE,2358,2000,Rapid Women,2025-09-13
+43,"Shuvalova, Polina",FID,2357,2001,Rapid Women,2025-09-13
+44,"Zhai, Mo",CHN,2355,1996,Rapid Women,2025-09-13
+45,"Daulyte-Cornette, Deimante",FRA,2348,1989,Rapid Women,2025-09-13
+46,"Garifullina, Leya",FID,2347,2004,Rapid Women,2025-09-13
+47,"Ni, Shiqun",CHN,2347,1997,Rapid Women,2025-09-13
+48,"Osmak, Yuliia",UKR,2347,1998,Rapid Women,2025-09-13
+49,"Batsiashvili, Nino",GEO,2346,1987,Rapid Women,2025-09-13
+50,"Gunina, Valentina",FID,2340,1989,Rapid Women,2025-09-13
+51,"Atalik, Ekaterina",TUR,2339,1982,Rapid Women,2025-09-13
+52,"Narva, Mai",EST,2334,1999,Rapid Women,2025-09-13
+53,"Arabidze, Meri",GEO,2333,1994,Rapid Women,2025-09-13
+54,"Mammadzada, Gunay",AZE,2331,2000,Rapid Women,2025-09-13
+55,"Munkhzul, Turmunkh",MGL,2330,2002,Rapid Women,2025-09-13
+56,"Bodnaruk, Anastasia",RUS,2326,1992,Rapid Women,2025-09-13
+57,"Abrahamyan, Tatev",USA,2324,1988,Rapid Women,2025-09-13
+58,Vantika Agrawal,IND,2321,2002,Rapid Women,2025-09-13
+59,"Galliamova, Alisa",RUS,2318,1972,Rapid Women,2025-09-13
+60,"Javakhishvili, Lela",GEO,2318,1984,Rapid Women,2025-09-13
+61,"Rajlich, Iweta",POL,2318,1981,Rapid Women,2025-09-13
+62,"Ding, Yixin",CHN,2316,1991,Rapid Women,2025-09-13
+63,"Munguntuul, Batkhuyag",MGL,2313,1987,Rapid Women,2025-09-13
+64,"Pham, Le Thao Nguyen",VIE,2312,1987,Rapid Women,2025-09-13
+65,"Salimova, Nurgyul",BUL,2311,2003,Rapid Women,2025-09-13
+66,"Milliet, Sophie",FRA,2309,1983,Rapid Women,2025-09-13
+67,"Pogonina, Natalija",RUS,2308,1985,Rapid Women,2025-09-13
+68,"Wagner, Dinara",GER,2307,1999,Rapid Women,2025-09-13
+69,"Danielian, Elina",ARM,2306,1978,Rapid Women,2025-09-13
+70,"Mou, Iris",USA,2305,2009,Rapid Women,2025-09-13
+71,"Maltsevskaya, Aleksandra",POL,2302,2002,Rapid Women,2025-09-13
+72,"Mohammadi, Melika",IRI,2302,2010,Rapid Women,2025-09-13
+73,"Efroimski, Marsel",ISR,2301,1995,Rapid Women,2025-09-13
+74,"Mkrtchian, Lilit",ARM,2300,1982,Rapid Women,2025-09-13
+75,"Brunello, Marina",ITA,2299,1994,Rapid Women,2025-09-13
+76,"Sargsyan, Anna M.",USA,2299,2001,Rapid Women,2025-09-13
+77,"Sliwicka, Alicja",POL,2299,2001,Rapid Women,2025-09-13
+78,"Mungunzul, Bat-Erdene",MGL,2298,2005,Rapid Women,2025-09-13
+79,"Hunt, Harriet V",ENG,2297,1978,Rapid Women,2025-09-13
+80,"Gaponenko, Inna",UKR,2296,1976,Rapid Women,2025-09-13
+81,"Peptan, Corina-Isabela",ROU,2296,1978,Rapid Women,2025-09-13
+82,"Guichard, Pauline",FRA,2294,1988,Rapid Women,2025-09-13
+83,"Schippke, Manon",FRA,2294,2007,Rapid Women,2025-09-13
+84,"Mammadova, Gulnar",AZE,2293,1991,Rapid Women,2025-09-13
+85,"Yu, Jennifer",USA,2293,2002,Rapid Women,2025-09-13
+86,"Balajayeva, Khanim",AZE,2291,2001,Rapid Women,2025-09-13
+87,"Michna, Marta",GER,2291,1978,Rapid Women,2025-09-13
+88,"Padmini, Rout",IND,2290,1994,Rapid Women,2025-09-13
+89,"Lu, Miaoyi",CHN,2288,2010,Rapid Women,2025-09-13
+90,"Agrest, Inna",SWE,2287,1991,Rapid Women,2025-09-13
+91,"Balabayeva, Xeniya",KAZ,2287,2005,Rapid Women,2025-09-13
+92,"Voit, Daria",RUS,2285,1994,Rapid Women,2025-09-13
+93,"Matnadze Bujiashvili, Ann",ESP,2285,1983,Rapid Women,2025-09-13
+94,"Gevorgyan, Maria",ARM,2284,1994,Rapid Women,2025-09-13
+95,"Haast, Anne",NED,2283,1993,Rapid Women,2025-09-13
+96,"Garcia Martin, Marta",ESP,2280,2000,Rapid Women,2025-09-13
+97,"Zhu, Chen",QAT,2280,1976,Rapid Women,2025-09-13
+98,"Gomes, Mary Ann",IND,2279,1989,Rapid Women,2025-09-13
+99,"Zatonskih, Anna",USA,2277,1978,Rapid Women,2025-09-13
+100,"Kiolbasa, Oliwia",POL,2277,2000,Rapid Women,2025-09-13
+1,Gukesh D,IND,2693,2006,Rapid Juniors,2025-09-13
+2,Praggnanandhaa R,IND,2691,2005,Rapid Juniors,2025-09-13
+3,"Sindarov, Javokhir",UZB,2688,2005,Rapid Juniors,2025-09-13
+4,"Murzin, Volodar",FID,2642,2006,Rapid Juniors,2025-09-13
+5,"Sadhwani, Raunak",IND,2625,2005,Rapid Juniors,2025-09-13
+6,"Mishra, Abhimanyu",USA,2600,2009,Rapid Juniors,2025-09-13
+7,"Dardha, Daniel",BEL,2583,2005,Rapid Juniors,2025-09-13
+8,"Lazavik, Denis",BLR,2579,2006,Rapid Juniors,2025-09-13
+9,"Pranav, V",IND,2563,2006,Rapid Juniors,2025-09-13
+10,"Suleymanli, Aydin",AZE,2535,2005,Rapid Juniors,2025-09-13
+11,"Droin, Augustin",FRA,2528,2006,Rapid Juniors,2025-09-13
+12,"Woodward, Andy",USA,2521,2010,Rapid Juniors,2025-09-13
+13,"Mahdavi, Reza",IRI,2518,2008,Rapid Juniors,2025-09-13
+14,"Zemlyanskii, Ivan",RUS,2512,2010,Rapid Juniors,2025-09-13
+15,"Grebnev, Aleksey",FID,2512,2006,Rapid Juniors,2025-09-13
+16,Pranesh M,IND,2509,2006,Rapid Juniors,2025-09-13
+17,"Gurel, Ediz",TUR,2502,2008,Rapid Juniors,2025-09-13
+18,"Mendonca, Leon Luke",IND,2498,2006,Rapid Juniors,2025-09-13
+19,"Daneshvar, Bardiya",IRI,2497,2006,Rapid Juniors,2025-09-13
+20,"Materia, Marco",FRA,2490,2009,Rapid Juniors,2025-09-13
+21,"Oro, Faustino",ARG,2489,2013,Rapid Juniors,2025-09-13
+22,"Maurizzi, MarcAndria",FRA,2489,2007,Rapid Juniors,2025-09-13
+23,"Amar, Elham",NOR,2480,2005,Rapid Juniors,2025-09-13
+24,"Rozen, Eytan",ISR,2469,2006,Rapid Juniors,2025-09-13
+25,"Samadov, Read",AZE,2469,2007,Rapid Juniors,2025-09-13
+26,"Tsaruk, Maksim",FID,2467,2005,Rapid Juniors,2025-09-13
+27,"Vetokhin, Savva",FID,2466,2009,Rapid Juniors,2025-09-13
+28,"Madaminov, Mukhiddin",UZB,2458,2006,Rapid Juniors,2025-09-13
+29,"Krastev, Alexander",GER,2456,2005,Rapid Juniors,2025-09-13
+30,"Xiao, Tong(QD)",CHN,2453,2008,Rapid Juniors,2025-09-13
+31,"Kilic, Eray",TUR,2453,2007,Rapid Juniors,2025-09-13
+32,"Can, Isik",TUR,2450,2005,Rapid Juniors,2025-09-13
+33,"Damjanovic, Vuk",SRB,2444,2006,Rapid Juniors,2025-09-13
+34,"Erdogmus, Yagiz Kaan",TUR,2444,2011,Rapid Juniors,2025-09-13
+35,"Samunenkov, Ihor",UKR,2443,2009,Rapid Juniors,2025-09-13
+36,"Petkov, Momchil",BUL,2443,2005,Rapid Juniors,2025-09-13
+37,"Xue, Haowen",CHN,2442,2008,Rapid Juniors,2025-09-13
+38,"Sowinski, Pawel",POL,2438,2010,Rapid Juniors,2025-09-13
+39,"Deuer, Marius",GER,2436,2008,Rapid Juniors,2025-09-13
+40,"Seemann, Jakub",POL,2434,2008,Rapid Juniors,2025-09-13
+41,"Finek, Vaclav",CZE,2433,2010,Rapid Juniors,2025-09-13
+42,"Begmuratov, Khumoyun",UZB,2432,2010,Rapid Juniors,2025-09-13
+43,Jubin Jimmy,IND,2432,2006,Rapid Juniors,2025-09-13
+44,"Mitusov, Semen",NOR,2432,2006,Rapid Juniors,2025-09-13
+45,"Magold, Filip",ROU,2431,2008,Rapid Juniors,2025-09-13
+46,"Klimkowski, Jan",POL,2426,2007,Rapid Juniors,2025-09-13
+47,"Petrovskiy, Vadym",GER,2425,2007,Rapid Juniors,2025-09-13
+48,"Amartuvshin, Ganzorig",MGL,2424,2005,Rapid Juniors,2025-09-13
+49,"Pingin, Artem",RUS,2424,2008,Rapid Juniors,2025-09-13
+50,"Timoshin, Maxim",FID,2421,2007,Rapid Juniors,2025-09-13
+51,"Uskov, Artem",FID,2421,2010,Rapid Juniors,2025-09-13
+52,Divya Deshmukh,IND,2419,2005,Rapid Juniors,2025-09-13
+53,"Khubukshanov, Erdem",FID,2419,2007,Rapid Juniors,2025-09-13
+54,"Concio, Michael Jr.",PHI,2418,2005,Rapid Juniors,2025-09-13
+55,"Lamaze, Simon",FRA,2416,2006,Rapid Juniors,2025-09-13
+56,"Orozbaev, Eldiyar",KGZ,2415,2006,Rapid Juniors,2025-09-13
+57,"Galaviz Medina, Sion Radamantys",MEX,2414,2005,Rapid Juniors,2025-09-13
+58,"Chasin, Nico",USA,2414,2006,Rapid Juniors,2025-09-13
+59,"Culum, Sanjin",BIH,2414,2007,Rapid Juniors,2025-09-13
+60,"Moosavifar, Seyed Abolfazl",IRI,2414,2010,Rapid Juniors,2025-09-13
+61,"Usov, Aleksandr E.",RUS,2413,2010,Rapid Juniors,2025-09-13
+62,"Lee, Alice",USA,2412,2009,Rapid Juniors,2025-09-13
+63,"Hidalgo Diaz, Daniel",CUB,2411,2008,Rapid Juniors,2025-09-13
+64,"Khodko, Yurii N.",RUS,2411,2008,Rapid Juniors,2025-09-13
+65,"Siddharth, Jagadeesh",SGP,2411,2007,Rapid Juniors,2025-09-13
+66,"Hardaway, Brewington",USA,2410,2009,Rapid Juniors,2025-09-13
+67,"Rakhmatullaev, Almas",UZB,2410,2006,Rapid Juniors,2025-09-13
+68,"Prokofiev, Valentyn",UKR,2409,2006,Rapid Juniors,2025-09-13
+69,"Roebers, Eline",NED,2409,2006,Rapid Juniors,2025-09-13
+70,"Macias Pino, Diego",ESP,2408,2007,Rapid Juniors,2025-09-13
+71,"Doroodgar, Amir hossein",IRI,2407,2006,Rapid Juniors,2025-09-13
+72,"Aizenberg, Benny",ISR,2407,2006,Rapid Juniors,2025-09-13
+73,"Pyrih, Roman",UKR,2407,2006,Rapid Juniors,2025-09-13
+74,"Tulchynskyi, Feliks",ISR,2407,2009,Rapid Juniors,2025-09-13
+75,"Ilinca, Felix-Antonio",ROU,2406,2010,Rapid Juniors,2025-09-13
+76,"Domene Mulyukov, Alexander",ESP,2405,2008,Rapid Juniors,2025-09-13
+77,"Haug, Havard",NOR,2405,2010,Rapid Juniors,2025-09-13
+78,"Kaufman, David",FID,2405,2010,Rapid Juniors,2025-09-13
+79,"Khripachenko, Alexander",FID,2405,2007,Rapid Juniors,2025-09-13
+80,"Levin, Guy",ISR,2405,2006,Rapid Juniors,2025-09-13
+81,"Movahed, Sina",IRI,2405,2010,Rapid Juniors,2025-09-13
+82,"Grachev, Alexey",FID,2404,2005,Rapid Juniors,2025-09-13
+83,"Krallis, Christos",GRE,2403,2005,Rapid Juniors,2025-09-13
+84,"Meillon, Judicael",FRA,2402,2005,Rapid Juniors,2025-09-13
+85,Prraneeth Vuppala,IND,2402,2007,Rapid Juniors,2025-09-13
+86,"Del Prado Rodriguez, Xulio",ESP,2401,2007,Rapid Juniors,2025-09-13
+87,"Bazakutsa, Svyatoslav",UKR,2401,2008,Rapid Juniors,2025-09-13
+88,"Adewumi, Tanitoluwa",USA,2400,2010,Rapid Juniors,2025-09-13
+89,"Davtyan, Arsen",ARM,2400,2006,Rapid Juniors,2025-09-13
+90,"Ljepic, Andrej",SRB,2399,2009,Rapid Juniors,2025-09-13
+91,"Shogdzhiev, Roman",FID,2399,2015,Rapid Juniors,2025-09-13
+92,"Kamalidenova, Meruert",KAZ,2398,2005,Rapid Juniors,2025-09-13
+93,"Kong, Xiangrui",CHN,2397,2009,Rapid Juniors,2025-09-13
+94,"Sokolovsky, Yahli",ISR,2397,2006,Rapid Juniors,2025-09-13
+95,"Yadegar, Radin",IRI,2397,2010,Rapid Juniors,2025-09-13
+96,"Tarhan, Adar",TUR,2395,2007,Rapid Juniors,2025-09-13
+97,"Habans Aguerrea, Javier",ESP,2394,2008,Rapid Juniors,2025-09-13
+98,"Goroshkov, Maksym",SLO,2393,2005,Rapid Juniors,2025-09-13
+99,"Stribuk, Artiom",FID,2393,2007,Rapid Juniors,2025-09-13
+100,"Volkov, Maksim",RUS,2393,2008,Rapid Juniors,2025-09-13
+1,Divya Deshmukh,IND,2419,2005,Rapid Girls,2025-09-13
+2,"Lee, Alice",USA,2412,2009,Rapid Girls,2025-09-13
+3,"Roebers, Eline",NED,2409,2006,Rapid Girls,2025-09-13
+4,"Kamalidenova, Meruert",KAZ,2398,2005,Rapid Girls,2025-09-13
+5,"Khamdamova, Afruza",UZB,2384,2009,Rapid Girls,2025-09-13
+6,"Song, Yuxin",CHN,2375,2005,Rapid Girls,2025-09-13
+7,"Mou, Iris",USA,2305,2009,Rapid Girls,2025-09-13
+8,"Mohammadi, Melika",IRI,2302,2010,Rapid Girls,2025-09-13
+9,"Mungunzul, Bat-Erdene",MGL,2298,2005,Rapid Girls,2025-09-13
+10,"Schippke, Manon",FRA,2294,2007,Rapid Girls,2025-09-13
+11,"Lu, Miaoyi",CHN,2288,2010,Rapid Girls,2025-09-13
+12,"Balabayeva, Xeniya",KAZ,2287,2005,Rapid Girls,2025-09-13
+13,"Hrebenshchykova, Yelyzaveta",UKR,2275,2005,Rapid Girls,2025-09-13
+14,Sahithi Varshini M,IND,2272,2007,Rapid Girls,2025-09-13
+15,"Shvedova, Alexandra",ITA,2267,2008,Rapid Girls,2025-09-13
+16,"Omonova, Umida",UZB,2265,2006,Rapid Girls,2025-09-13
+17,"Kairbekova, Amina",KAZ,2259,2006,Rapid Girls,2025-09-13
+18,"Paragua, Megan Althea",USA,2257,2012,Rapid Girls,2025-09-13
+19,"Toncheva, Nadya",BUL,2257,2005,Rapid Girls,2025-09-13
+20,"Nurman, Alua",KAZ,2252,2007,Rapid Girls,2025-09-13
+21,"Shukhman, Anna",FID,2247,2009,Rapid Girls,2025-09-13
+22,Savitha Shri B,IND,2238,2007,Rapid Girls,2025-09-13
+23,"Hnatyshyn, Anastasiia",UKR,2221,2010,Rapid Girls,2025-09-13
+24,"Gaal, Zsoka",HUN,2220,2007,Rapid Girls,2025-09-13
+25,"Nurgaliyeva, Zarina",KAZ,2212,2009,Rapid Girls,2025-09-13
+26,"Piddubna, Bozhena",UKR,2211,2009,Rapid Girls,2025-09-13
+27,"Norman, Kseniya",FID,2197,2007,Rapid Girls,2025-09-13
+28,"Pipiras, Filipa Fortuna",POR,2197,2005,Rapid Girls,2025-09-13
+29,"Kaliakhmet, Elnaz",KAZ,2190,2010,Rapid Girls,2025-09-13
+30,"Skarbarchuk, Tetyana",UKR,2189,2007,Rapid Girls,2025-09-13
+31,"Lyutsinger, Iren",FID,2189,2009,Rapid Girls,2025-09-13
+32,"Zhurova, Anna",FID,2189,2005,Rapid Girls,2025-09-13
+33,"Karmanova, Olga Dm.",FID,2183,2007,Rapid Girls,2025-09-13
+34,"Babic, Masa",BIH,2182,2008,Rapid Girls,2025-09-13
+35,"Kuznecova, Marija",LAT,2180,2010,Rapid Girls,2025-09-13
+36,"Babic, Milana",BIH,2177,2008,Rapid Girls,2025-09-13
+37,"Goraj, Barbara",POL,2174,2005,Rapid Girls,2025-09-13
+38,"Wikar, Martyna",POL,2174,2005,Rapid Girls,2025-09-13
+39,"Wu, Rochelle",USA,2165,2006,Rapid Girls,2025-09-13
+40,"Bayasgalan, Khishigbaatar",MGL,2157,2007,Rapid Girls,2025-09-13
+41,"Khalafvand, Dorsa Sadat",IRI,2156,2014,Rapid Girls,2025-09-13
+42,"Dudkina, Uliana",FID,2154,2010,Rapid Girls,2025-09-13
+43,"Ivanytska, Liudmyla",UKR,2153,2007,Rapid Girls,2025-09-13
+44,"Vujatovic, Irina",SRB,2153,2008,Rapid Girls,2025-09-13
+45,"Jiang, Tianyu",CHN,2153,2010,Rapid Girls,2025-09-13
+46,"Contreras Huaman, Fiorella",PER,2152,2007,Rapid Girls,2025-09-13
+47,"Kurmangaliyeva, Liya",KAZ,2150,2005,Rapid Girls,2025-09-13
+48,"Altantuya, Boldbaatar",MGL,2145,2005,Rapid Girls,2025-09-13
+49,"Blokhin, Sofia",EST,2142,2006,Rapid Girls,2025-09-13
+50,"Demeter, Dorina",HUN,2142,2005,Rapid Girls,2025-09-13
+51,"Obada, Ema",ROU,2138,2005,Rapid Girls,2025-09-13
+52,"Mijic, Sara",SRB,2137,2011,Rapid Girls,2025-09-13
+53,"Orian, Noga",ISR,2136,2007,Rapid Girls,2025-09-13
+54,"Kanyamarala, Trisha",IRL,2135,2005,Rapid Girls,2025-09-13
+55,"Vlasova, Olesia",FID,2134,2008,Rapid Girls,2025-09-13
+56,"Vasiljeva, Sofja",LAT,2133,2009,Rapid Girls,2025-09-13
+57,"Liavonava, Yuliya",FID,2133,2008,Rapid Girls,2025-09-13
+58,"Rodriguez Rivero, Jinela de Cari",CUB,2131,2009,Rapid Girls,2025-09-13
+59,"Manko, Mariia",SUI,2131,2007,Rapid Girls,2025-09-13
+60,"Satanovskaia, Evgeniia",RUS,2131,2009,Rapid Girls,2025-09-13
+61,"Ter-Avetisjana, Agnesa Stepania",LAT,2131,2007,Rapid Girls,2025-09-13
+62,"Yakimova, Mariya",FID,2128,2005,Rapid Girls,2025-09-13
+63,"Tarasenka, Aliaksandra",BLR,2126,2006,Rapid Girls,2025-09-13
+64,"Mgeladze, Kesaria",GEO,2123,2010,Rapid Girls,2025-09-13
+65,Nguyen Hong Nhung,VIE,2123,2006,Rapid Girls,2025-09-13
+66,"Zhapova, Yana",FID,2123,2008,Rapid Girls,2025-09-13
+67,"Wang, Qinxuanyi",CHN,2121,2011,Rapid Girls,2025-09-13
+68,"Siekanska, Maria",POL,2119,2007,Rapid Girls,2025-09-13
+69,"Kuznetsova, Marina",FID,2119,2006,Rapid Girls,2025-09-13
+70,"Buyankhishig, Batpelden",MGL,2118,2012,Rapid Girls,2025-09-13
+71,"Vujovic, Vera",SRB,2114,2011,Rapid Girls,2025-09-13
+72,"Shishkareva, Anastasiya",RUS,2110,2010,Rapid Girls,2025-09-13
+73,"Starosta, Martyna",POL,2110,2006,Rapid Girls,2025-09-13
+74,"Kirdyashkina, Ekaterina",FID,2108,2008,Rapid Girls,2025-09-13
+75,"Kleymenova, Valeria",RUS,2107,2008,Rapid Girls,2025-09-13
+76,"Smietanska, Wiktoria",POL,2106,2010,Rapid Girls,2025-09-13
+77,"Valcu, Lavinia",SWE,2105,2009,Rapid Girls,2025-09-13
+78,"Shubenkova, Veronika",FID,2104,2007,Rapid Girls,2025-09-13
+79,"Montejo Bello, Lorena Beatriz",CUB,2102,2009,Rapid Girls,2025-09-13
+80,"Ziegenfuss, Antonia",GER,2101,2005,Rapid Girls,2025-09-13
+81,"Rybackova, Lucie",CZE,2098,2009,Rapid Girls,2025-09-13
+82,"Caku, Kler",ALB,2095,2010,Rapid Girls,2025-09-13
+83,"Iudina, Veronika",RUS,2095,2010,Rapid Girls,2025-09-13
+84,"Gao, Muziyan",CHN,2093,2011,Rapid Girls,2025-09-13
+85,"Fedorova, Olesya",RUS,2092,2009,Rapid Girls,2025-09-13
+86,"Mikheeva, Galina",FID,2092,2007,Rapid Girls,2025-09-13
+87,"Dorokhina, Elizaveta",FID,2090,2006,Rapid Girls,2025-09-13
+88,"Sevcikova, Lucia",SVK,2090,2006,Rapid Girls,2025-09-13
+89,"Preobrazhenskaya, Diana",FID,2088,2011,Rapid Girls,2025-09-13
+90,"Khafizova, Diana",FID,2085,2010,Rapid Girls,2025-09-13
+91,"Cymbron, Victoria",POR,2085,2008,Rapid Girls,2025-09-13
+92,"Ebrahimi Rashti, Asal",IRI,2084,2010,Rapid Girls,2025-09-13
+93,"Karaivanova, Petya",BUL,2082,2007,Rapid Girls,2025-09-13
+94,"Tokarz, Izabela",POL,2080,2007,Rapid Girls,2025-09-13
+95,"Wang, Chuqiao",CHN,2080,2008,Rapid Girls,2025-09-13
+96,"Yunker, Alisa Genrietta",FID,2079,2014,Rapid Girls,2025-09-13
+97,"Donate Moreno, Silvia",ESP,2078,2005,Rapid Girls,2025-09-13
+98,"Lobo Pereira, Arami",ESP,2078,2007,Rapid Girls,2025-09-13
+99,Kalyani Sirin,IND,2073,2010,Rapid Girls,2025-09-13
+100,"Aydin, Gulenay",TUR,2073,2006,Rapid Girls,2025-09-13
+1,"Carlsen, Magnus",NOR,2881,1990,Blitz Open,2025-09-13
+2,"Nakamura, Hikaru",USA,2838,1987,Blitz Open,2025-09-13
+3,"Firouzja, Alireza",FRA,2814,2003,Blitz Open,2025-09-13
+4,"Nepomniachtchi, Ian",RUS,2802,1990,Blitz Open,2025-09-13
+5,"Dubov, Daniil",RUS,2795,1996,Blitz Open,2025-09-13
+6,"Bortnyk, Olexandr",UKR,2793,1996,Blitz Open,2025-09-13
+7,"So, Wesley",USA,2791,1993,Blitz Open,2025-09-13
+8,"Aronian, Levon",USA,2777,1982,Blitz Open,2025-09-13
+9,"Abdusattorov, Nodirbek",UZB,2769,2004,Blitz Open,2025-09-13
+10,"Vachier-Lagrave, Maxime",FRA,2763,1990,Blitz Open,2025-09-13
+11,"Ding, Liren",CHN,2757,1992,Blitz Open,2025-09-13
+12,"Fedoseev, Vladimir",SLO,2754,1995,Blitz Open,2025-09-13
+13,"Duda, Jan-Krzysztof",POL,2752,1998,Blitz Open,2025-09-13
+14,"Artemiev, Vladislav",RUS,2751,1998,Blitz Open,2025-09-13
+15,Erigaisi Arjun,IND,2750,2003,Blitz Open,2025-09-13
+16,"Niemann, Hans Moke",USA,2734,2003,Blitz Open,2025-09-13
+17,"Anand, Viswanathan",IND,2732,1969,Blitz Open,2025-09-13
+18,"Naroditsky, Daniel",USA,2729,1995,Blitz Open,2025-09-13
+19,"Sevian, Samuel",USA,2727,2000,Blitz Open,2025-09-13
+20,"Caruana, Fabiano",USA,2726,1992,Blitz Open,2025-09-13
+21,"Bu, Xiangzhi",CHN,2715,1985,Blitz Open,2025-09-13
+22,Praggnanandhaa R,IND,2707,2005,Blitz Open,2025-09-13
+23,"Yu, Yangyi",CHN,2706,1994,Blitz Open,2025-09-13
+24,"Sarana, Alexey",SRB,2705,2000,Blitz Open,2025-09-13
+25,"Le, Quang Liem",VIE,2704,1991,Blitz Open,2025-09-13
+26,"Maghsoodloo, Parham",IRI,2703,2000,Blitz Open,2025-09-13
+27,"Giri, Anish",NED,2703,1994,Blitz Open,2025-09-13
+28,"Xiong, Jeffery",USA,2703,2000,Blitz Open,2025-09-13
+29,"Martinez Alcantara, Jose Eduardo",MEX,2700,1999,Blitz Open,2025-09-13
+30,"Wei, Yi",CHN,2695,1999,Blitz Open,2025-09-13
+31,"Kravtsiv, Martyn",UKR,2690,1990,Blitz Open,2025-09-13
+32,"Svidler, Peter",FID,2687,1976,Blitz Open,2025-09-13
+33,"Adams, Michael",ENG,2685,1971,Blitz Open,2025-09-13
+34,Nihal Sarin,IND,2681,2004,Blitz Open,2025-09-13
+35,"Martirosyan, Haik M.",ARM,2680,2000,Blitz Open,2025-09-13
+36,"Oparin, Grigoriy",USA,2676,1997,Blitz Open,2025-09-13
+37,"Grischuk, Alexander",RUS,2676,1983,Blitz Open,2025-09-13
+38,"Mamedyarov, Shakhriyar",AZE,2676,1985,Blitz Open,2025-09-13
+39,"Bauer, Christian",FRA,2674,1977,Blitz Open,2025-09-13
+40,"Vidit, Santosh Gujrathi",IND,2672,1994,Blitz Open,2025-09-13
+41,"Esipenko, Andrey",RUS,2660,2002,Blitz Open,2025-09-13
+42,"Indjic, Aleksandar",SRB,2659,1995,Blitz Open,2025-09-13
+43,"Lu, Shanglei",CHN,2659,1995,Blitz Open,2025-09-13
+44,"Maroroa Jones, Gawain C B",ENG,2658,1987,Blitz Open,2025-09-13
+45,"Deac, Bogdan-Daniel",ROU,2657,2001,Blitz Open,2025-09-13
+46,"Salem, A.R. Saleh",UAE,2653,1993,Blitz Open,2025-09-13
+47,"Karjakin, Sergey",RUS,2651,1990,Blitz Open,2025-09-13
+48,"Bortnyk, Mykola",UKR,2650,1994,Blitz Open,2025-09-13
+49,"Jobava, Baadur",GEO,2650,1983,Blitz Open,2025-09-13
+50,"Sadhwani, Raunak",IND,2649,2005,Blitz Open,2025-09-13
+51,"Bruzon Batista, Lazaro",USA,2647,1982,Blitz Open,2025-09-13
+52,"Radjabov, Teimour",AZE,2646,1987,Blitz Open,2025-09-13
+53,"Van Foreest, Jorden",NED,2646,1999,Blitz Open,2025-09-13
+54,"Murzin, Volodar",FID,2645,2006,Blitz Open,2025-09-13
+55,"Grigoryan, Karen H.",ARM,2644,1995,Blitz Open,2025-09-13
+56,"Iturrizaga Bonelli, Eduardo",ESP,2643,1989,Blitz Open,2025-09-13
+57,"Korobov, Anton",UKR,2643,1985,Blitz Open,2025-09-13
+58,"Smirnov, Anton",AUS,2643,2001,Blitz Open,2025-09-13
+59,"Wang, Yue",CHN,2641,1987,Blitz Open,2025-09-13
+60,"Balogh, Csaba",HUN,2640,1987,Blitz Open,2025-09-13
+61,"Svane, Rasmus",GER,2640,1997,Blitz Open,2025-09-13
+62,"Navara, David",CZE,2639,1985,Blitz Open,2025-09-13
+63,"Wang, Hao",CHN,2639,1989,Blitz Open,2025-09-13
+64,"Bluebaum, Matthias",GER,2635,1997,Blitz Open,2025-09-13
+65,"Safarli, Eltaj",AZE,2634,1992,Blitz Open,2025-09-13
+66,"Ivanchuk, Vasyl",UKR,2632,1969,Blitz Open,2025-09-13
+67,"Pichot, Alan",ESP,2632,1998,Blitz Open,2025-09-13
+68,"Bok, Benjamin",NED,2632,1995,Blitz Open,2025-09-13
+69,"Harikrishna, Pentala",IND,2632,1986,Blitz Open,2025-09-13
+70,"Moussard, Jules",FRA,2632,1995,Blitz Open,2025-09-13
+71,"Robson, Ray",USA,2632,1994,Blitz Open,2025-09-13
+72,"Sindarov, Javokhir",UZB,2632,2005,Blitz Open,2025-09-13
+73,"Lai, Hing Ting",NED,2631,1997,Blitz Open,2025-09-13
+74,"Rapport, Richard",HUN,2630,1996,Blitz Open,2025-09-13
+75,"Dominguez Perez, Leinier",USA,2629,1983,Blitz Open,2025-09-13
+76,Gukesh D,IND,2629,2006,Blitz Open,2025-09-13
+77,"Aravindh, Chithambaram VR.",IND,2627,1999,Blitz Open,2025-09-13
+78,"Topalov, Veselin",BUL,2627,1975,Blitz Open,2025-09-13
+79,"Nyzhnyk, Illya",UKR,2626,1996,Blitz Open,2025-09-13
+80,"Eljanov, Pavel",UKR,2623,1983,Blitz Open,2025-09-13
+81,"Shirov, Alexei",ESP,2620,1972,Blitz Open,2025-09-13
+82,Aryan Chopra,IND,2620,2001,Blitz Open,2025-09-13
+83,"Keinanen, Toivo",FIN,2619,2002,Blitz Open,2025-09-13
+84,"Bosiocic, Marin",CRO,2618,1988,Blitz Open,2025-09-13
+85,"Perez Ponsa, Federico",ARG,2617,1993,Blitz Open,2025-09-13
+86,"Shankland, Sam",USA,2616,1991,Blitz Open,2025-09-13
+87,"Alekseenko, Kirill",AUT,2615,1997,Blitz Open,2025-09-13
+88,"Tsydypov, Zhamsaran",RUS,2613,1996,Blitz Open,2025-09-13
+89,"Tomashevsky, Evgeny",RUS,2613,1987,Blitz Open,2025-09-13
+90,"Santos Latasa, Jaime",ESP,2611,1996,Blitz Open,2025-09-13
+91,Narayanan S L,IND,2609,1998,Blitz Open,2025-09-13
+92,"Lazavik, Denis",BLR,2609,2006,Blitz Open,2025-09-13
+93,"Cori, Jorge",PER,2609,1995,Blitz Open,2025-09-13
+94,"Mamedov, Rauf",AZE,2609,1988,Blitz Open,2025-09-13
+95,"Lenderman, Aleksandr",USA,2606,1989,Blitz Open,2025-09-13
+96,"Pranav, V",IND,2606,2006,Blitz Open,2025-09-13
+97,"Antipov, Mikhail Al.",USA,2605,1997,Blitz Open,2025-09-13
+98,"Wojtaszek, Radoslaw",POL,2605,1987,Blitz Open,2025-09-13
+99,"Cordova, Emilio",PER,2602,1991,Blitz Open,2025-09-13
+100,"Matlakov, Maxim",RUS,2601,1991,Blitz Open,2025-09-13
+1,"Hou, Yifan",CHN,2519,1994,Blitz Women,2025-09-13
+2,"Ju, Wenjun",CHN,2489,1991,Blitz Women,2025-09-13
+3,"Lei, Tingjie",CHN,2478,1997,Blitz Women,2025-09-13
+4,"Tan, Zhongyi",CHN,2457,1991,Blitz Women,2025-09-13
+5,"Lagno, Kateryna",RUS,2448,1989,Blitz Women,2025-09-13
+6,"Assaubayeva, Bibisara",KAZ,2439,2004,Blitz Women,2025-09-13
+7,"Goryachkina, Aleksandra",FID,2439,1998,Blitz Women,2025-09-13
+8,"Koneru, Humpy",IND,2430,1987,Blitz Women,2025-09-13
+9,"Kosteniuk, Alexandra",SUI,2428,1984,Blitz Women,2025-09-13
+10,"Zhu, Jiner",CHN,2425,2002,Blitz Women,2025-09-13
+11,"Garifullina, Leya",FID,2412,2004,Blitz Women,2025-09-13
+12,"Vaishali, Rameshbabu",IND,2401,2001,Blitz Women,2025-09-13
+13,"Shuvalova, Polina",FID,2399,2001,Blitz Women,2025-09-13
+14,"Muzychuk, Anna",UKR,2397,1990,Blitz Women,2025-09-13
+15,"Tsolakidou, Stavroula",GRE,2395,2000,Blitz Women,2025-09-13
+16,"Dronavalli, Harika",IND,2389,1991,Blitz Women,2025-09-13
+17,"Narva, Mai",EST,2389,1999,Blitz Women,2025-09-13
+18,Divya Deshmukh,IND,2388,2005,Blitz Women,2025-09-13
+19,"Zhao, Xue",CHN,2383,1985,Blitz Women,2025-09-13
+20,"Paragua, Megan Althea",USA,2381,2012,Blitz Women,2025-09-13
+21,"Dzagnidze, Nana",GEO,2378,1987,Blitz Women,2025-09-13
+22,"Arabidze, Meri",GEO,2377,1994,Blitz Women,2025-09-13
+23,"Danielian, Elina",ARM,2373,1978,Blitz Women,2025-09-13
+24,"Muzychuk, Mariya",UKR,2373,1992,Blitz Women,2025-09-13
+25,"Song, Yuxin",CHN,2373,2005,Blitz Women,2025-09-13
+26,"Stefanova, Antoaneta",BUL,2367,1979,Blitz Women,2025-09-13
+27,"Kashlinskaya, Alina",POL,2366,1993,Blitz Women,2025-09-13
+28,"Melamed, Tatjana",GER,2357,1974,Blitz Women,2025-09-13
+29,"Saduakassova, Dinara",KAZ,2357,1996,Blitz Women,2025-09-13
+30,"Wagner, Dinara",GER,2355,1999,Blitz Women,2025-09-13
+31,"Paehtz, Elisabeth",GER,2354,1985,Blitz Women,2025-09-13
+32,"Khademalsharieh, Sarasadat",ESP,2352,1997,Blitz Women,2025-09-13
+33,"Ushenina, Anna",UKR,2351,1985,Blitz Women,2025-09-13
+34,"Gunina, Valentina",FID,2348,1989,Blitz Women,2025-09-13
+35,"Khotenashvili, Bella",GEO,2342,1988,Blitz Women,2025-09-13
+36,"Matnadze Bujiashvili, Ann",ESP,2339,1983,Blitz Women,2025-09-13
+37,"Nurman, Alua",KAZ,2338,2007,Blitz Women,2025-09-13
+38,"Miranda Llanes, Yerisbel",CUB,2337,1987,Blitz Women,2025-09-13
+39,"Roebers, Eline",NED,2337,2006,Blitz Women,2025-09-13
+40,"Lee, Alice",USA,2336,2009,Blitz Women,2025-09-13
+41,"Salimova, Nurgyul",BUL,2336,2003,Blitz Women,2025-09-13
+42,"Kulon, Klaudia",POL,2333,1992,Blitz Women,2025-09-13
+43,Vantika Agrawal,IND,2329,2002,Blitz Women,2025-09-13
+44,"Mammadzada, Gunay",AZE,2326,2000,Blitz Women,2025-09-13
+45,"Maltsevskaya, Aleksandra",POL,2323,2002,Blitz Women,2025-09-13
+46,"Zatonskih, Anna",USA,2319,1978,Blitz Women,2025-09-13
+47,"Wang, Chuqiao",CHN,2318,2008,Blitz Women,2025-09-13
+48,"Yip, Carissa",USA,2318,2003,Blitz Women,2025-09-13
+49,"Dolzhykova, Kateryna",GER,2317,1988,Blitz Women,2025-09-13
+50,"Brunello, Marina",ITA,2316,1994,Blitz Women,2025-09-13
+51,"Huang, Qian",CHN,2316,1986,Blitz Women,2025-09-13
+52,"Galliamova, Alisa",RUS,2314,1972,Blitz Women,2025-09-13
+53,"Zhai, Mo",CHN,2314,1996,Blitz Women,2025-09-13
+54,"Sargsyan, Anna M.",USA,2313,2001,Blitz Women,2025-09-13
+55,"Balabayeva, Xeniya",KAZ,2308,2005,Blitz Women,2025-09-13
+56,"Munkhzul, Turmunkh",MGL,2307,2002,Blitz Women,2025-09-13
+57,"Michna, Marta",GER,2306,1978,Blitz Women,2025-09-13
+58,"Mungunzul, Bat-Erdene",MGL,2306,2005,Blitz Women,2025-09-13
+59,"Papp, Petra",HUN,2305,1993,Blitz Women,2025-09-13
+60,"Javakhishvili, Lela",GEO,2303,1984,Blitz Women,2025-09-13
+61,"Schippke, Manon",FRA,2297,2007,Blitz Women,2025-09-13
+62,"Osmak, Yuliia",UKR,2297,1998,Blitz Women,2025-09-13
+63,"Bayasgalan, Khishigbaatar",MGL,2296,2007,Blitz Women,2025-09-13
+64,"Zhu, Chen",QAT,2296,1976,Blitz Women,2025-09-13
+65,"Babiy, Olga",GER,2295,1989,Blitz Women,2025-09-13
+66,"Zhukova, Natalia",UKR,2289,1979,Blitz Women,2025-09-13
+67,"Injac, Teodora",SRB,2287,2000,Blitz Women,2025-09-13
+68,"Munguntuul, Batkhuyag",MGL,2285,1987,Blitz Women,2025-09-13
+69,"Peptan, Corina-Isabela",ROU,2285,1978,Blitz Women,2025-09-13
+70,"Skripchenko, Almira",FRA,2285,1976,Blitz Women,2025-09-13
+71,"Kamalidenova, Meruert",KAZ,2281,2005,Blitz Women,2025-09-13
+72,"Francisco Guecamburu, Candela Be",ARG,2278,2006,Blitz Women,2025-09-13
+73,"Melia, Salome",GEO,2278,1987,Blitz Women,2025-09-13
+74,"Krush, Irina",USA,2272,1983,Blitz Women,2025-09-13
+75,"Khamdamova, Afruza",UZB,2271,2009,Blitz Women,2025-09-13
+76,"Gevorgyan, Maria",ARM,2269,1994,Blitz Women,2025-09-13
+77,"Abrahamyan, Tatev",USA,2268,1988,Blitz Women,2025-09-13
+78,"Frayna, Janelle Mae",PHI,2267,1996,Blitz Women,2025-09-13
+79,"Sivanandan, Bodhana",ENG,2267,2015,Blitz Women,2025-09-13
+80,"Cori T., Deysi",PER,2266,1993,Blitz Women,2025-09-13
+81,"Nurgaliyeva, Zarina",KAZ,2265,2009,Blitz Women,2025-09-13
+82,"Pogonina, Natalija",RUS,2262,1985,Blitz Women,2025-09-13
+83,"Atalik, Ekaterina",TUR,2261,1982,Blitz Women,2025-09-13
+84,"Daulyte-Cornette, Deimante",FRA,2260,1989,Blitz Women,2025-09-13
+85,"Paikidze, Nazi",USA,2260,1993,Blitz Women,2025-09-13
+86,"Yu, Jennifer",USA,2260,2002,Blitz Women,2025-09-13
+87,"Bodnaruk, Anastasia",RUS,2259,1992,Blitz Women,2025-09-13
+88,"Omonova, Umida",UZB,2259,2006,Blitz Women,2025-09-13
+89,"Sliwicka, Alicja",POL,2259,2001,Blitz Women,2025-09-13
+90,"Ni, Shiqun",CHN,2258,1997,Blitz Women,2025-09-13
+91,"Cramling, Pia",SWE,2256,1963,Blitz Women,2025-09-13
+92,"Sukandar, Irine Kharisma",INA,2256,1992,Blitz Women,2025-09-13
+93,"Iglesias, Yosha",FRA,2254,1987,Blitz Women,2025-09-13
+94,"Kuznecova, Marija",LAT,2253,2010,Blitz Women,2025-09-13
+95,"Ambartsumova, Karina",RUS,2252,1989,Blitz Women,2025-09-13
+96,"Bulmaga, Irina",ROU,2251,1993,Blitz Women,2025-09-13
+97,"Nomin-Erdene, Davaademberel",HUN,2251,2000,Blitz Women,2025-09-13
+98,"Kanyamarala, Trisha",IRL,2249,2005,Blitz Women,2025-09-13
+99,"Shvedova, Alexandra",ITA,2249,2008,Blitz Women,2025-09-13
+100,"Charkhalashvili, Inga",GEO,2248,1983,Blitz Women,2025-09-13
+1,Praggnanandhaa R,IND,2707,2005,Blitz Juniors,2025-09-13
+2,"Sadhwani, Raunak",IND,2649,2005,Blitz Juniors,2025-09-13
+3,"Murzin, Volodar",FID,2645,2006,Blitz Juniors,2025-09-13
+4,"Sindarov, Javokhir",UZB,2632,2005,Blitz Juniors,2025-09-13
+5,Gukesh D,IND,2629,2006,Blitz Juniors,2025-09-13
+6,"Lazavik, Denis",BLR,2609,2006,Blitz Juniors,2025-09-13
+7,"Pranav, V",IND,2606,2006,Blitz Juniors,2025-09-13
+8,"Amar, Elham",NOR,2598,2005,Blitz Juniors,2025-09-13
+9,"Dardha, Daniel",BEL,2597,2005,Blitz Juniors,2025-09-13
+10,"Suleymanli, Aydin",AZE,2584,2005,Blitz Juniors,2025-09-13
+11,"Zemlyanskii, Ivan",RUS,2571,2010,Blitz Juniors,2025-09-13
+12,"Hardaway, Brewington",USA,2569,2009,Blitz Juniors,2025-09-13
+13,Pranesh M,IND,2553,2006,Blitz Juniors,2025-09-13
+14,"Haug, Havard",NOR,2537,2010,Blitz Juniors,2025-09-13
+15,"Usov, Aleksandr E.",RUS,2532,2010,Blitz Juniors,2025-09-13
+16,"Uskov, Artem",FID,2532,2010,Blitz Juniors,2025-09-13
+17,"Deuer, Marius",GER,2517,2008,Blitz Juniors,2025-09-13
+18,"Damjanovic, Vuk",SRB,2515,2006,Blitz Juniors,2025-09-13
+19,Bharath Subramaniyam H,IND,2514,2007,Blitz Juniors,2025-09-13
+20,"Gloeckler, Christian",GER,2514,2011,Blitz Juniors,2025-09-13
+21,"Guo, Arthur",USA,2513,2006,Blitz Juniors,2025-09-13
+22,"Materia, Marco",FRA,2510,2009,Blitz Juniors,2025-09-13
+23,"Mishra, Abhimanyu",USA,2508,2009,Blitz Juniors,2025-09-13
+24,"Daneshvar, Bardiya",IRI,2503,2006,Blitz Juniors,2025-09-13
+25,"Gurel, Ediz",TUR,2503,2008,Blitz Juniors,2025-09-13
+26,"Maurizzi, MarcAndria",FRA,2502,2007,Blitz Juniors,2025-09-13
+27,"Ansat, Aldiyar",KAZ,2500,2008,Blitz Juniors,2025-09-13
+28,"Erdogmus, Yagiz Kaan",TUR,2497,2011,Blitz Juniors,2025-09-13
+29,"Jiang, Haochen",CHN,2496,2011,Blitz Juniors,2025-09-13
+30,"Oro, Faustino",ARG,2491,2013,Blitz Juniors,2025-09-13
+31,"Averin, Nikolay",FID,2491,2010,Blitz Juniors,2025-09-13
+32,"Samunenkov, Ihor",UKR,2487,2009,Blitz Juniors,2025-09-13
+33,"Madaminov, Mukhiddin",UZB,2486,2006,Blitz Juniors,2025-09-13
+34,"Mendonca, Leon Luke",IND,2483,2006,Blitz Juniors,2025-09-13
+35,"Vetokhin, Savva",FID,2483,2009,Blitz Juniors,2025-09-13
+36,"Macias Pino, Diego",ESP,2482,2007,Blitz Juniors,2025-09-13
+37,"Suyarov, Mukhammadzokhid",UZB,2482,2009,Blitz Juniors,2025-09-13
+38,"Grebnev, Aleksey",FID,2480,2006,Blitz Juniors,2025-09-13
+39,"Droin, Augustin",FRA,2477,2006,Blitz Juniors,2025-09-13
+40,"Kong, Xiangrui",CHN,2477,2009,Blitz Juniors,2025-09-13
+41,"Tsaruk, Maksim",FID,2476,2005,Blitz Juniors,2025-09-13
+42,"Movahed, Sina",IRI,2475,2010,Blitz Juniors,2025-09-13
+43,"Klimkowski, Jan",POL,2470,2007,Blitz Juniors,2025-09-13
+44,"Krallis, Christos",GRE,2461,2005,Blitz Juniors,2025-09-13
+45,"Engel, Bruno",GER,2461,2009,Blitz Juniors,2025-09-13
+46,"Woodward, Andy",USA,2461,2010,Blitz Juniors,2025-09-13
+47,"Adewumi, Tanitoluwa",USA,2459,2010,Blitz Juniors,2025-09-13
+48,"Sapenov, Daniyal",KAZ,2458,2008,Blitz Juniors,2025-09-13
+49,"Trost, Edvin",SWE,2458,2007,Blitz Juniors,2025-09-13
+50,"Samadov, Read",AZE,2456,2007,Blitz Juniors,2025-09-13
+51,"Finek, Vaclav",CZE,2455,2010,Blitz Juniors,2025-09-13
+52,"Colbow, Collin",GER,2452,2005,Blitz Juniors,2025-09-13
+53,"Pyrih, Roman",UKR,2450,2006,Blitz Juniors,2025-09-13
+54,"Kilic, Eray",TUR,2449,2007,Blitz Juniors,2025-09-13
+55,"Petrovskiy, Vadym",GER,2447,2007,Blitz Juniors,2025-09-13
+56,"Dubnevych, Maksym",UKR,2445,2009,Blitz Juniors,2025-09-13
+57,"Can, Isik",TUR,2444,2005,Blitz Juniors,2025-09-13
+58,"Chasin, Nico",USA,2443,2006,Blitz Juniors,2025-09-13
+59,"Atanasov, Anthony",CAN,2443,2008,Blitz Juniors,2025-09-13
+60,"Grachev, Alexey",FID,2440,2005,Blitz Juniors,2025-09-13
+61,"Kacprzak, Karol",POL,2439,2005,Blitz Juniors,2025-09-13
+62,"Liu, Eric",USA,2439,2009,Blitz Juniors,2025-09-13
+63,Dau Khuong Duy,VIE,2438,2011,Blitz Juniors,2025-09-13
+64,"Poltorak, Sebastian",POL,2435,2005,Blitz Juniors,2025-09-13
+65,"Flores Quillas, Diego Saul Rodri",PER,2434,2006,Blitz Juniors,2025-09-13
+66,"Krastev, Alexander",GER,2434,2005,Blitz Juniors,2025-09-13
+67,"Royal, Shreyas",ENG,2433,2009,Blitz Juniors,2025-09-13
+68,"Bethke, Richard",GER,2433,2005,Blitz Juniors,2025-09-13
+69,"Concio, Michael Jr.",PHI,2430,2005,Blitz Juniors,2025-09-13
+70,"Dehtiarov, Roman",UKR,2430,2008,Blitz Juniors,2025-09-13
+71,"Gryshko, Vitalii",UKR,2430,2005,Blitz Juniors,2025-09-13
+72,"Hidalgo Diaz, Daniel",CUB,2430,2008,Blitz Juniors,2025-09-13
+73,"Garner, Isaac",GER,2429,2006,Blitz Juniors,2025-09-13
+74,"Ticona Rocabado, Licael Roderick",BOL,2428,2008,Blitz Juniors,2025-09-13
+75,"Mahdavi, Reza",IRI,2427,2008,Blitz Juniors,2025-09-13
+76,"He, Anthony",USA,2426,2005,Blitz Juniors,2025-09-13
+77,"Rakitin, Daniil",RUS,2425,2007,Blitz Juniors,2025-09-13
+78,Mendes Aaron Reeve,CAN,2425,2012,Blitz Juniors,2025-09-13
+79,"Ohanyan, Emin",ARM,2425,2006,Blitz Juniors,2025-09-13
+80,"Mitusov, Semen",NOR,2424,2006,Blitz Juniors,2025-09-13
+81,"Moeller, Maurin",GER,2424,2008,Blitz Juniors,2025-09-13
+82,"Sokolovsky, Yahli",ISR,2424,2006,Blitz Juniors,2025-09-13
+83,"Ahmad, Khagan",AZE,2422,2011,Blitz Juniors,2025-09-13
+84,Ilamparthi A R,IND,2422,2009,Blitz Juniors,2025-09-13
+85,"Skrbec, Leon",SLO,2420,2007,Blitz Juniors,2025-09-13
+86,"Gnojek, Petr",CZE,2419,2005,Blitz Juniors,2025-09-13
+87,"Putnam, Liam",USA,2418,2008,Blitz Juniors,2025-09-13
+88,"Zverev, Lev",FID,2418,2010,Blitz Juniors,2025-09-13
+89,"Levin, Guy",ISR,2417,2006,Blitz Juniors,2025-09-13
+90,"Bilovil, Bogdan",UKR,2416,2006,Blitz Juniors,2025-09-13
+91,"Fiorito, Francisco",ARG,2416,2010,Blitz Juniors,2025-09-13
+92,"Villa Tornero, Alex",ESP,2415,2010,Blitz Juniors,2025-09-13
+93,"Perea Fruet, Lorenzo",ESP,2415,2008,Blitz Juniors,2025-09-13
+94,"Costa, Leonardo",GER,2415,2008,Blitz Juniors,2025-09-13
+95,"Akhmedinov, Satbek",KAZ,2414,2006,Blitz Juniors,2025-09-13
+96,"Kundianok, Vladislav",FID,2414,2005,Blitz Juniors,2025-09-13
+97,"Shehzad, Shazil",NOR,2414,2006,Blitz Juniors,2025-09-13
+98,"Xiao, Tong(QD)",CHN,2414,2008,Blitz Juniors,2025-09-13
+99,"Khubukshanov, Erdem",FID,2413,2007,Blitz Juniors,2025-09-13
+100,"Aswath, S",IND,2412,2008,Blitz Juniors,2025-09-13
+1,Divya Deshmukh,IND,2388,2005,Blitz Girls,2025-09-13
+2,"Paragua, Megan Althea",USA,2381,2012,Blitz Girls,2025-09-13
+3,"Song, Yuxin",CHN,2373,2005,Blitz Girls,2025-09-13
+4,"Nurman, Alua",KAZ,2338,2007,Blitz Girls,2025-09-13
+5,"Roebers, Eline",NED,2337,2006,Blitz Girls,2025-09-13
+6,"Lee, Alice",USA,2336,2009,Blitz Girls,2025-09-13
+7,"Wang, Chuqiao",CHN,2318,2008,Blitz Girls,2025-09-13
+8,"Balabayeva, Xeniya",KAZ,2308,2005,Blitz Girls,2025-09-13
+9,"Mungunzul, Bat-Erdene",MGL,2306,2005,Blitz Girls,2025-09-13
+10,"Schippke, Manon",FRA,2297,2007,Blitz Girls,2025-09-13
+11,"Bayasgalan, Khishigbaatar",MGL,2296,2007,Blitz Girls,2025-09-13
+12,"Kamalidenova, Meruert",KAZ,2281,2005,Blitz Girls,2025-09-13
+13,"Francisco Guecamburu, Candela Be",ARG,2278,2006,Blitz Girls,2025-09-13
+14,"Khamdamova, Afruza",UZB,2271,2009,Blitz Girls,2025-09-13
+15,"Sivanandan, Bodhana",ENG,2267,2015,Blitz Girls,2025-09-13
+16,"Nurgaliyeva, Zarina",KAZ,2265,2009,Blitz Girls,2025-09-13
+17,"Omonova, Umida",UZB,2259,2006,Blitz Girls,2025-09-13
+18,"Kuznecova, Marija",LAT,2253,2010,Blitz Girls,2025-09-13
+19,"Kanyamarala, Trisha",IRL,2249,2005,Blitz Girls,2025-09-13
+20,"Shvedova, Alexandra",ITA,2249,2008,Blitz Girls,2025-09-13
+21,"Kleymenova, Valeria",RUS,2237,2008,Blitz Girls,2025-09-13
+22,"Atwell, Rose",USA,2233,2009,Blitz Girls,2025-09-13
+23,"Hrebenshchykova, Yelyzaveta",UKR,2225,2005,Blitz Girls,2025-09-13
+24,"Lu, Miaoyi",CHN,2221,2010,Blitz Girls,2025-09-13
+25,"Toncheva, Nadya",BUL,2220,2005,Blitz Girls,2025-09-13
+26,Rakshitta Ravi,IND,2218,2005,Blitz Girls,2025-09-13
+27,"Ter-Avetisjana, Agnesa Stepania",LAT,2213,2007,Blitz Girls,2025-09-13
+28,"Hnatyshyn, Anastasiia",UKR,2212,2010,Blitz Girls,2025-09-13
+29,Sahithi Varshini M,IND,2209,2007,Blitz Girls,2025-09-13
+30,"Kaliakhmet, Elnaz",KAZ,2207,2010,Blitz Girls,2025-09-13
+31,"Mohammadi, Melika",IRI,2204,2010,Blitz Girls,2025-09-13
+32,"Babic, Milana",BIH,2204,2008,Blitz Girls,2025-09-13
+33,"Shukhman, Anna",FID,2204,2009,Blitz Girls,2025-09-13
+34,Savitha Shri B,IND,2201,2007,Blitz Girls,2025-09-13
+35,"Wu, Rochelle",USA,2190,2006,Blitz Girls,2025-09-13
+36,"Rodriguez Rivero, Jinela de Cari",CUB,2188,2009,Blitz Girls,2025-09-13
+37,"Yakimova, Mariya",FID,2183,2005,Blitz Girls,2025-09-13
+38,"Jiang, Tianyu",CHN,2183,2010,Blitz Girls,2025-09-13
+39,"Gaal, Zsoka",HUN,2182,2007,Blitz Girls,2025-09-13
+40,"Dudkina, Uliana",FID,2179,2010,Blitz Girls,2025-09-13
+41,"Aydin, Gulenay",TUR,2177,2006,Blitz Girls,2025-09-13
+42,"Zhurova, Anna",FID,2174,2005,Blitz Girls,2025-09-13
+43,"Kurmangaliyeva, Liya",KAZ,2174,2005,Blitz Girls,2025-09-13
+44,"Su, Jasmine Zhixin",USA,2173,2010,Blitz Girls,2025-09-13
+45,Nguyen Hong Nhung,VIE,2169,2006,Blitz Girls,2025-09-13
+46,"Piddubna, Bozhena",UKR,2165,2009,Blitz Girls,2025-09-13
+47,"Babic, Masa",BIH,2165,2008,Blitz Girls,2025-09-13
+48,"Vlasova, Olesia",FID,2162,2008,Blitz Girls,2025-09-13
+49,"Lyutsinger, Iren",FID,2159,2009,Blitz Girls,2025-09-13
+50,"Goraj, Barbara",POL,2159,2005,Blitz Girls,2025-09-13
+51,"Li, Rachael",USA,2157,2010,Blitz Girls,2025-09-13
+52,"Bashylina, Luisa",GER,2150,2006,Blitz Girls,2025-09-13
+53,"Kamenskaya, Marina",RUS,2147,2009,Blitz Girls,2025-09-13
+54,"Chen, Yining",CHN,2146,2009,Blitz Girls,2025-09-13
+55,"Efimova, Darya",FID,2145,2009,Blitz Girls,2025-09-13
+56,"Contreras Huaman, Fiorella",PER,2142,2007,Blitz Girls,2025-09-13
+57,"Luis Alvarez, Elizabeth",CUB,2142,2005,Blitz Girls,2025-09-13
+58,Sneha Halder,IND,2141,2009,Blitz Girls,2025-09-13
+59,Kalyani Sirin,IND,2134,2010,Blitz Girls,2025-09-13
+60,"Ivanytska, Liudmyla",UKR,2133,2007,Blitz Girls,2025-09-13
+61,"Demeter, Dorina",HUN,2131,2005,Blitz Girls,2025-09-13
+62,"Munkhzul, Davaakhuu",MGL,2129,2006,Blitz Girls,2025-09-13
+63,"Karmanova, Olga Dm.",FID,2128,2007,Blitz Girls,2025-09-13
+64,"Zeliantsova, Kseniya",FID,2127,2005,Blitz Girls,2025-09-13
+65,"Tarasenka, Aliaksandra",BLR,2125,2006,Blitz Girls,2025-09-13
+66,"Smietanska, Wiktoria",POL,2122,2010,Blitz Girls,2025-09-13
+67,"Adam, Ernestina",ARG,2122,2009,Blitz Girls,2025-09-13
+68,"Kirtadze, Anastasia",GEO,2119,2009,Blitz Girls,2025-09-13
+69,"Iudina, Veronika",RUS,2117,2010,Blitz Girls,2025-09-13
+70,"Imomkuzieva, Nilufarkhon",UZB,2116,2010,Blitz Girls,2025-09-13
+71,"Khalilova, Madinabonu",UZB,2115,2009,Blitz Girls,2025-09-13
+72,"Yunker, Alisa Genrietta",FID,2114,2014,Blitz Girls,2025-09-13
+73,"Ivashentseva, Dominika",FID,2108,2011,Blitz Girls,2025-09-13
+74,"Dorokhina, Elizaveta",FID,2107,2006,Blitz Girls,2025-09-13
+75,"Tashkinova, Sofiia",ISR,2107,2007,Blitz Girls,2025-09-13
+76,"Arzur, Maia",FRA,2100,2009,Blitz Girls,2025-09-13
+77,"Khafizova, Diana",FID,2099,2010,Blitz Girls,2025-09-13
+78,"Achmiz, Diana",RUS,2095,2007,Blitz Girls,2025-09-13
+79,"Kuznetsova, Marina",FID,2094,2006,Blitz Girls,2025-09-13
+80,"Siekanska, Maria",POL,2093,2007,Blitz Girls,2025-09-13
+81,"Musabayeva, Diana",BEL,2093,2007,Blitz Girls,2025-09-13
+82,"Kairbekova, Amina",KAZ,2092,2006,Blitz Girls,2025-09-13
+83,"Chervyakova, Tatiana",RUS,2092,2006,Blitz Girls,2025-09-13
+84,"Preobrazhenskaya, Diana",FID,2091,2011,Blitz Girls,2025-09-13
+85,"Shohradova, Lala",TKM,2090,2006,Blitz Girls,2025-09-13
+86,"Shohradova, Leyla",TKM,2090,2007,Blitz Girls,2025-09-13
+87,"Castillo Beitia, Ashley Alexandr",PAN,2088,2009,Blitz Girls,2025-09-13
+88,"Akbari, Rosha",IRI,2088,2011,Blitz Girls,2025-09-13
+89,"Pipiras, Filipa Fortuna",POR,2087,2005,Blitz Girls,2025-09-13
+90,"Skramstad, Oda Kofoed",NOR,2085,2010,Blitz Girls,2025-09-13
+91,"Mou, Iris",USA,2084,2009,Blitz Girls,2025-09-13
+92,"Wang, Qinxuanyi",CHN,2082,2011,Blitz Girls,2025-09-13
+93,"Wikar, Martyna",POL,2082,2005,Blitz Girls,2025-09-13
+94,"Kirdyashkina, Ekaterina",FID,2081,2008,Blitz Girls,2025-09-13
+95,"Obada, Ema",ROU,2080,2005,Blitz Girls,2025-09-13
+96,"Starosta, Martyna",POL,2080,2006,Blitz Girls,2025-09-13
+97,"Latifah, Laysa",INA,2077,2006,Blitz Girls,2025-09-13
+98,"Lobo Pereira, Arami",ESP,2077,2007,Blitz Girls,2025-09-13
+99,"Neumann, Helena",GER,2076,2008,Blitz Girls,2025-09-13
+100,"Butenandt, Svenja",GER,2075,2006,Blitz Girls,2025-09-13
