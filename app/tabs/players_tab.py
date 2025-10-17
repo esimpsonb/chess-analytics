@@ -54,26 +54,48 @@ def render(players, games):
             )
             st.plotly_chart(fig, use_container_width=False)
     
-    st.subheader("🏆 Mejores 5 victorias (por ELO del rival)")
+    #st.subheader("🏆 Mejores 5 victorias (por ELO del rival)")
 
     top_wins = get_top_wins(partidas.copy(), selected_player)
+    worst_losses =get_top_wins(partidas.copy(), selected_player,False)
 
-    if not top_wins.empty:
-        selected_game = st.selectbox(
-            "Selecciona una partida para ver",
-            top_wins["url"].tolist(),
-            format_func=lambda x: (
-                f"{top_wins.loc[top_wins['url']==x,'white_username'].iloc[0]} "
-                f"({top_wins.loc[top_wins['url']==x,'white_rating'].iloc[0]}) vs "
-                f"{top_wins.loc[top_wins['url']==x,'black_username'].iloc[0]} "
-                f"({top_wins.loc[top_wins['url']==x,'black_rating'].iloc[0]})"
+    if not top_wins.empty and not worst_losses.empty:
+        c1, c2 = st.columns([1.5, 1.5])  # proporciones iguales
+        
+        # Columna izquierda: mejores victorias
+        with c1:
+            g1,g2 = st.columns([1.28, 3])
+            g1 =st.subheader("🏆 Mejores 5 victorias (por ELO del rival)")
+            selected_win = st.selectbox(
+                "Selecciona una partida para ver",
+                top_wins["url"].tolist(),
+                format_func=lambda x: (
+                    f"{top_wins.loc[top_wins['url']==x,'white_username'].iloc[0]} "
+                    f"({top_wins.loc[top_wins['url']==x,'white_rating'].iloc[0]}) vs "
+                    f"{top_wins.loc[top_wins['url']==x,'black_username'].iloc[0]} "
+                    f"({top_wins.loc[top_wins['url']==x,'black_rating'].iloc[0]})"
+                ),
+                key="select_win"
             )
-)
+            pgn_win = top_wins[top_wins["url"] == selected_win]["pgn"].iloc[0]
+            show_pgn_viewer(pgn_win, session_key="viewer_topwins")
 
-        pgn_text = top_wins[top_wins["url"] == selected_game]["pgn"].iloc[0]
-        show_pgn_viewer(pgn_text, session_key="viewer_topwins")
-    else:
-        st.info("No hay victorias registradas para este jugador en los datos.")
+        # Columna derecha: peores derrotas
+        with c2:
+            st.subheader("💀 Peores 5 derrotas (por ELO del rival)")
+            selected_loss = st.selectbox(
+                "Selecciona una partida para ver",
+                worst_losses["url"].tolist(),
+                format_func=lambda x: (
+                    f"{worst_losses.loc[worst_losses['url']==x,'white_username'].iloc[0]} "
+                    f"({worst_losses.loc[worst_losses['url']==x,'white_rating'].iloc[0]}) vs "
+                    f"{worst_losses.loc[worst_losses['url']==x,'black_username'].iloc[0]} "
+                    f"({worst_losses.loc[worst_losses['url']==x,'black_rating'].iloc[0]})"
+                ),
+                key="select_loss"
+            )
+            pgn_loss = worst_losses[worst_losses["url"] == selected_loss]["pgn"].iloc[0]
+            show_pgn_viewer(pgn_loss, session_key="viewer_toplosses")
 
     st.subheader("📊 Aperturas más jugadas (últimos 3 meses)")
 

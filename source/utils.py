@@ -205,20 +205,28 @@ def show_pgn_viewer(pgn_text, session_key="move_number"):
     boardsvg = chess.svg.board(board=board, size=400, arrows=arrows)
     st.write(boardsvg, unsafe_allow_html=True)
 
-    # Botones navegación
+    # ---- Navegación con callbacks ----
+    def go_start():
+        st.session_state[session_key] = 0
+
+    def go_prev():
+        st.session_state[session_key] = max(0, st.session_state[session_key] - 1)
+
+    def go_next():
+        st.session_state[session_key] = min(len(moves), st.session_state[session_key] + 1)
+
+    def go_end():
+        st.session_state[session_key] = len(moves)
+
     cols = st.columns([0.2,0.2,0.2,0.2,2])
     with cols[0]:
-        if st.button("⏮️", key=f"{session_key}_start"):
-            st.session_state[session_key] = 0
+        st.button("⏮️", key=f"{session_key}_start", on_click=go_start)
     with cols[1]:
-        if st.button("⬅️", key=f"{session_key}_prev"):
-            st.session_state[session_key] = max(0, st.session_state[session_key] - 1)
+        st.button("⬅️", key=f"{session_key}_prev", on_click=go_prev)
     with cols[2]:
-        if st.button("➡️", key=f"{session_key}_next"):
-            st.session_state[session_key] = min(len(moves), st.session_state[session_key] + 1)
+        st.button("➡️", key=f"{session_key}_next", on_click=go_next)
     with cols[3]:
-        if st.button("⏭️", key=f"{session_key}_end"):
-            st.session_state[session_key] = len(moves)
+        st.button("⏭️", key=f"{session_key}_end", on_click=go_end)
 
     # Info
     st.markdown(f"**Jugada:** {st.session_state[session_key]}/{len(moves)}")
@@ -226,12 +234,10 @@ def show_pgn_viewer(pgn_text, session_key="move_number"):
     st.markdown(f"**Blancas:** {game.headers.get('White', '---')}")
     st.markdown(f"**Negras:** {game.headers.get('Black', '---')}")
     st.markdown(f"**Resultado:** {game.headers.get('Result', '---')}")
-
-
 # ---------------------------
 # Función: obtener top 5 victorias
 # ---------------------------
-def get_top_wins(player_games, selected_player):
+def get_top_wins(player_games, selected_player, top = True):
     # Agregar rival_elo
     player_games["rival_elo"] = np.where(
         player_games["black_username"] == selected_player,
@@ -247,9 +253,17 @@ def get_top_wins(player_games, selected_player):
     )
 
     # Top 5 victorias
-    top_wins = (
-        player_games[player_games["player_score"] == 1]
-        .sort_values("rival_elo", ascending=False)
-        .head(5)
-    )
-    return top_wins
+    if top:
+        top_wins = (
+            player_games[player_games["player_score"] == 1]
+            .sort_values("rival_elo", ascending=False)
+            .head(5)
+        )
+        return top_wins
+    else:
+        worst_wins = (
+            player_games[player_games["player_score"] == 0]
+            .sort_values("rival_elo", ascending=False)
+            .tail(5)
+        )
+        return worst_wins        
